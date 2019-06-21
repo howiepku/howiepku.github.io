@@ -89,9 +89,18 @@ I'm an assistant professor of Beijing University of Posts and Telecommunications
 
 </font></font></font></font></span></p><hr><font face="arial,sans-serif" size="3"><font face="arial,sans-serif" size="3"><font face="arial,sans-serif" size="3">
 
-<p style="margin:0cm 0cm 0pt;line-height:150%"><b><span lang="EN-US" style="line-height:150%;font-size:14pt"><font face="arial,sans-serif">Publication (* refers to the corresponding author) </ font></span></b></p></font>
+<p style="margin:0cm 0cm 0pt;line-height:150%"><b><span lang="EN-US" style="line-height:150%;font-size:14pt"><font face="arial,sans-serif">Publication </ font></span></b></p></font>
 
 <ol>
+
+
+<strong>  Top-tier Venues: WWW (2019, 2017, 2014), IMC 2018, ESEC/FSE 2018, ISSTA (2018, 2015), IEEE TDSC 2019, ACM TOIS 2017, UbiComp 2015  </strong>
+
+
+<br>
+<br>
+<br>
+
 
 <strong> 2019  </strong>
 <hr>
@@ -99,7 +108,19 @@ I'm an assistant professor of Beijing University of Posts and Telecommunications
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-Ningyu He, Lei Wu, <strong>Haoyu Wang</strong>,  Yao Guo, and Xuxian Jiang.
+Quanqi Ye, Yan Zhang, Guangdong Bai, Naipeng Dong, Zhenkai Liang, Jin Song Dong and <strong>Haoyu Wang*</strong>.
+<br>
+"LightSense: A Novel Side Channel for Zero-permission Mobile User Tracking".
+<br>
+<strong><i>The 22nd Information Security Conference (ISC'2019)</i>.
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
+
+
+
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+Ningyu He, Lei Wu, <strong>Haoyu Wang*</strong>,  Yao Guo, and Xuxian Jiang.
 <br>
 "Characterizing Code Clones in the Ethereum Smart Contract Ecosystem".
 <br>
@@ -111,7 +132,7 @@ Ningyu He, Lei Wu, <strong>Haoyu Wang</strong>,  Yao Guo, and Xuxian Jiang.
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-Li Li, Tegawende F. Bissyande, <strong>Haoyu Wang</strong>,  Jacques Klein, and Yves Le Traonb.
+Li Li, Tegawende, Timoth¨¦e Riom, F. Bissyande, <strong>Haoyu Wang</strong>,  Jacques Klein, and Yves Le Traonb.
 <br>
 "Revisiting the Impact of Common Libraries for Android-related Investigations". PDF
 <br>
