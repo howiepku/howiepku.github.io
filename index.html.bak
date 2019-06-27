@@ -89,12 +89,12 @@ I'm an assistant professor of Beijing University of Posts and Telecommunications
 
 </font></font></font></font></span></p><hr><font face="arial,sans-serif" size="3"><font face="arial,sans-serif" size="3"><font face="arial,sans-serif" size="3">
 
-<p style="margin:0cm 0cm 0pt;line-height:150%"><b><span lang="EN-US" style="line-height:150%;font-size:14pt"><font face="arial,sans-serif">Publication </ font></span></b></p></font>
+<p style="margin:0cm 0cm 0pt;line-height:150%"><b><span lang="EN-US" style="line-height:150%;font-size:14pt"><font face="arial,sans-serif">Publications </ font></span></b></p></font>
 
 <ol>
 
 
-<strong> Pre-print  </strong>
+<strong> Pre-print (on-going) </strong>
 <hr>
 
 
@@ -109,6 +109,15 @@ Ningyu He, Lei Wu, <strong>Haoyu Wang*</strong>,  Yao Guo, and Xuxian Jiang.
 <br>
 
 
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+Lijin Quan, Lei Wu, and <strong>Haoyu Wang*</strong>.
+<br>
+"EVulHunter: Detecting Fake Transfer Vulnerabilities for EOSIO's Smart Contracts at Webassembly-level".
+<br>
+<strong><i>https://arxiv.org/abs/1906.10362</i>.
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
 
 
 
@@ -150,11 +159,9 @@ Qian Guo, <strong>Haoyu Wang</strong>, Chenwei Zhang, Yao Guo and Guoai Xu.
 <br>
 "AppNet: Understanding App Recommendation in Google Play". PDF
 <br>
-<strong><i>THE WEB CONFERENCE 2019 (WWW 2019), acceptance rate = 18% , full paper</i>.
+<strong><i>THE 3rd International Workshop on App Market Analytics (WAMA 2019), co-located with ESEC/FSE 2019</i>.
 </strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
 <br>
-
-
 
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
@@ -172,6 +179,18 @@ Quanqi Ye, Yan Zhang, Guangdong Bai, Naipeng Dong, Zhenkai Liang, Jin Song Dong 
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+ Zeliang Kan, <strong>Haoyu Wang</strong>, Lei Wu, Yao Guo and Guoai Xu.
+<br>
+"Deobfuscating Android Native Binary Code". PDF
+<br>
+<strong><i>41st ACM/IEEE International Conference on Software Engineering (ICSE 2019), Poster Track (Invitation)</i>.
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
+
+
+
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
 Li Li, Timothee Riom, Tegawende F. Bissyande, <strong>Haoyu Wang</strong>,  Jacques Klein, and Yves Le Traonb.
 <br>
 "Revisiting the Impact of Common Libraries for Android-related Investigations". PDF
@@ -179,9 +198,6 @@ Li Li, Timothee Riom, Tegawende F. Bissyande, <strong>Haoyu Wang</strong>,  Jacq
 <strong><i>Journal of Systems and Software (JSS) </i>.
 </strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
 <br>
-
-
-
 
 
 
@@ -203,20 +219,7 @@ Li Li, Timothee Riom, Tegawende F. Bissyande, <strong>Haoyu Wang</strong>,  Jacq
 <br>
 "RmvDroid: Towards A Reliable Android Malware Dataset with App Metadata". PDF
 <br>
-<strong><i>The 16th International Conference on Mining Software Repositories (MSR 2019), Data Showcase Track</i>.
-</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
-<br>
-
-
-
-
-<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
-<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
- Zeliang Kan, <strong>Haoyu Wang</strong>, Lei Wu, Yao Guo and Guoai Xu.
-<br>
-"Deobfuscating Android Native Binary Code". PDF
-<br>
-<strong><i>41st ACM/IEEE International Conference on Software Engineering (ICSE 2019), Poster Track (Invitation)</i>.
+<strong><i>The 16th International Conference on Mining Software Repositories (MSR 2019), Data Showcase</i>.
 </strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
 <br>
 
@@ -284,44 +287,11 @@ Feng Dong, <strong>Haoyu Wang* (co-first author)</strong>, Li Li, Yao Guo, Tegaw
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-Yangyu Hu, <strong>Haoyu Wang*</strong>, Yajin Zhou*, Yao Guo, Li Li, Bingxuan Luo, Fangren Xu.
-<br>
-"Dating with Scambots: Understanding the Ecosystem of Fraudulent Dating Applications". PDF
-<br>
-<strong><i>https://arxiv.org/abs/1807.04901</i>.
-</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
-<br>
-
-
-
-
-<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
-<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
 Li Li, Tegawende F. Bissyande, <strong>Haoyu Wang</strong>, Jacques Klein.
 <br>
 "CiD: Automating the Detection of API-related Compatibility Issues in Android Apps". PDF
 <br>
 <strong><i>The 27th International Symposium on Software Testing and Analysis (ISSTA 2018)</i>.
-</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
-<br>
-
-<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
-<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-<strong>Haoyu Wang</strong>, Hao Li, Li Li, Yao Guo, Guoai Xu.
-<br>
-"Why are Android Apps Removed From Google Play? A Large-scale Empirical Study ". PDF
-<br>
-<strong><i>15th International Conference on Mining Software Repositories (MSR 2018)</i>. Accepted as a Full Paper.
-</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
-<br>
-
-<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
-<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-Zeliang Kan, <strong>Haoyu Wang</strong>, Guoai Xu, Yao Guo, Xiangqun Chen.
-<br>
-"Towards Light-weight Deep Learning based Malware Detection ". PDF
-<br>
-<strong><i>The 42nd IEEE International Conference on Computers, Software &amp; Applications (COMPSAC 2018)</i>. Accepted as a Full Paper.
 </strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
 <br>
 
@@ -338,6 +308,29 @@ Feng Dong, <strong>Haoyu Wang*</strong>, Li Li, Yao Guo, Guoai Xu, Shaodong Zhan
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+<strong>Haoyu Wang</strong>, Hao Li, Li Li, Yao Guo, Guoai Xu.
+<br>
+"Why are Android Apps Removed From Google Play? A Large-scale Empirical Study ". PDF
+<br>
+<strong><i>15th International Conference on Mining Software Repositories (MSR 2018)</i>
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
+
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+Zeliang Kan, <strong>Haoyu Wang</strong>, Guoai Xu, Yao Guo, Xiangqun Chen.
+<br>
+"Towards Light-weight Deep Learning based Malware Detection ". PDF
+<br>
+<strong><i>The 42nd IEEE International Conference on Computers, Software &amp; Applications (COMPSAC 2018)</i>
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
+
+
+
+
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
 Chengpeng Zhang, <strong>Haoyu Wang*</strong>, Ran Wang, Yao Guo, Guoai Xu.
 <br>
 "Re-checking App Behavior against App Description in the Context of Third-party Libraries". PDF
@@ -351,19 +344,6 @@ Chengpeng Zhang, <strong>Haoyu Wang*</strong>, Ran Wang, Yao Guo, Guoai Xu.
 
 <strong> 2017  </strong>
 <hr>
-
-
-<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
-<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-Feng Dong, <strong>Haoyu Wang</strong>, Yuanchun Li, Yao Guo, Li Li, Shaodong Zhang, Guoai Xu.
-<br>
-"FrauDroid: An Accurate and Scalable Approach to Automated Mobile Ad Fraud Detection". PDF
-<br>
-<strong><i>https://arxiv.org/pdf/1709.01213.pdf </i>
-</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
-<br>
-
-
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
@@ -382,6 +362,17 @@ Feng Dong, <strong>Haoyu Wang</strong>, Yuanchun Li, Yao Guo, Li Li, Shaodong Zh
 "Understanding the Purpose of Permission Use in Mobile Apps". PDF
 <br>
 <strong><i>ACM Transactions on Information Systems (TOIS)</i>
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
+
+
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+<strong>Haoyu Wang</strong> and Yao Guo.
+<br>
+"Understanding Third-party Libraries in Mobile App Analysis". PDF
+<br>
+<strong><i>ICSE  2017 , Technical Briefings</i>
 </strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
 <br>
 
@@ -404,18 +395,6 @@ Chengze Li, <strong>Haoyu Wang</strong>, Junfeng Wang, Qi Li, Jianbo Yu, Jingyi 
 <strong><i>IEEE ACCESS 14(8), 2017</i>
 </strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
 <br>
-
-
-<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
-<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-<strong>Haoyu Wang</strong> and Yao Guo.
-<br>
-"Understanding Third-party Libraries in Mobile App Analysis". PDF
-<br>
-<strong><i>ICSE  2017 , Technical Briefings</i>
-</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
-<br>
-
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
