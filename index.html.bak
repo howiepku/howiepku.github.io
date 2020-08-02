@@ -7,7 +7,7 @@ try{var l=null;a.chrome&&a.chrome.csi&&(l=Math.floor(a.chrome.csi().pageT));null
 </script>
 
 <title>
-Haoyu Wang, Beijing University of Posts and Telecommunications
+Haoyu Wang, Associate Professor, BUPT
 </title>
 
 </head><body>
@@ -37,8 +37,8 @@ Haoyu Wang, Beijing University of Posts and Telecommunications
 <div style="margin:0cm 0cm 0pt;line-height:150%"><div style="margin:5px 10px 0px 0px;float:left;display:inline;zoom:1"><img border="0" height="464" src="./HaoyuWang.jpg" style="width:207px;height:207px" width="400"></div>
 <div style="margin:5px 10px 0px 0px;float:left;display:inline;zoom:1"></div></div>
 <div style="margin:0cm 0cm 0pt;line-height:150%"><img border="0" height="64" src="./chinesename.jpg" style="width:84px;height:44px" width="96"></div>
-<div style="margin:0cm 0cm 0pt;line-height:150%">Haoyu Wang, Ph. D, </div>
-<div style="margin:0cm 0cm 0pt;line-height:150%">Associate Professor (tenured), </div>
+<div style="margin:0cm 0cm 0pt;line-height:150%"><strong>Haoyu Wang, Ph. D, </strong></div>
+<div style="margin:0cm 0cm 0pt;line-height:150%"><strong>Associate Professor (tenured), PhD Supervisor, </strong></div>
 <div style="margin:0cm 0cm 0pt;line-height:150%">BUPT "1551" Young Talent Plan, </div>
 <div style="margin:0cm 0cm 0pt;line-height:150%">School of Computer Science, </div></span>
 <div style="margin:0cm 0cm 0pt;line-height:150%">Beijing University of Posts and Telecommunications<br> Beijing,  China</div></span>
@@ -49,66 +49,181 @@ Haoyu Wang, Beijing University of Posts and Telecommunications
 	<span lang="PT-BR" style="line-height:150%">
 	<font face="arial,sans-serif" size="3">
 
-I'm an Associate Professor of Beijing University of Posts and Telecommunications. I received my PhD degree from Peking University in 2016. My PhD advisors are Prof. <a href="http://sei.pku.edu.cn/~yaoguo" rel="nofollow" target="_blank"><font face="arial,sans-serif" size="3">Yao Guo </font></a><font face="arial,sans-serif" size="3"> and Prof. Xiangqun Chen. I was a visiting student at Carnegie Mellon University working with Prof. <a href="http://www.cs.cmu.edu/~jasonh/" rel="nofollow" target="_blank"><font face="arial,sans-serif" size="3">Jason Hong </font></a><font face="arial,sans-serif" size="3">  and Prof. <a href="https://www.synergylabs.org/yuvraj/" rel="nofollow" target="_blank"><font face="arial,sans-serif" size="3">Yuvraj Agarwal </font></a><font face="arial,sans-serif" size="3"> . My current research interest lies at the intersection of mobile system, privacy and security, and program analysis.
+Short Bio:
+I'm an Associate Professor in the <a href="https://scs.bupt.edu.cn/">School of Computer Science</a>
+ at <a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications (BUPT)</a>.
+My research covers a wide range of topics in Software (Program) Analysis, Privacy and Security, eCrime, Internet/System Measurement, and Artificial Intelligence.
+My current research projects are mainly focused on: 1) security, privacy and scam in the mobile ecosystem; 2) blockchain security; and 3) the intersection of machine learning and program analysis techniques.
+My research usually targets top-tier Software Engineering Venues (ICSE/FSE/ASE/ISSTA), Security Venues (CCS/NDSS/Oakland/USENIXSec), Web and Measurement Venues (WWW/IMC/SIGMETRICS).
+I received my PhD degree in Computer Science from <a href="http://english.pku.edu.cn/">Peking University</a> in 2016.
+I was a visiting student at <a href="https://www.cmu.edu/">Carnegie Mellon University</a> and a visiting professor at  <a href="https://www.polyu.edu.hk/">The Hong Kong Polytechnic University</a>.
+<br>
+<br>
 
+<i><strong>  I'm looking for highly motivated PhD/master students and BUPT undergraduate interns to work in my team. Hard work always pays off.</strong> </i>
 
-
-<!--<HR>
-<p style="margin:0cm 0cm 0pt;line-height:150%"><span lang="PT-BR" style="line-height:150%;font-size:12pt">&nbsp;</span></p>
-<p style="margin:0cm 0cm 0pt;line-height:150%"><span lang="EN-US" style="line-height:150%;font-size:14pt"><strong>Professional Experience</strong></span></p>
-<p></p>
-
-<div style="margin:0cm 0cm 0pt;line-height:150%"><span lang="EN-US" style="line-height:150%;font-size:12pt">2016.07-now<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><Strong> <b>Assistant Professor</b> </strong></span></div>
-<p style="margin:0cm 0cm 0pt;line-height:150%;text-indent:84pt"><span lang="EN-US" style="line-height:150%;font-size:12pt">&nbsp;<span>&nbsp;&nbsp;</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span lang="EN-US" style="line-height:150%;font-size:12pt">School of Computer Science, Beijing University of Posts and Telecommunications</span></p>
-<p style="margin:0cm 0cm 0pt;line-height:150%;text-indent:84pt"><span lang="EN-US" style="line-height:150%;font-size:12pt">&nbsp;<span>&nbsp;&nbsp;</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
-
-
-<HR>
-<p style="margin:0cm 0cm 0pt;line-height:150%"><span lang="PT-BR" style="line-height:150%;font-size:12pt">&nbsp;</span></p>
-<p style="margin:0cm 0cm 0pt;line-height:150%"><span lang="EN-US" style="line-height:150%;font-size:14pt"><strong>Education</strong></span></p>
-<p></p>
-
-<div style="margin:0cm 0cm 0pt;line-height:150%"><span lang="EN-US" style="line-height:150%;font-size:12pt">2014.09-2015.09<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><Strong>Visiting Ph. D&nbsp; Student (Visiting Research Scholar)</strong></span></div>
-<p style="margin:0cm 0cm 0pt;line-height:150%;text-indent:84pt"><span lang="EN-US" style="line-height:150%;font-size:12pt">&nbsp;<span>&nbsp;&nbsp;</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span lang="EN-US" style="line-height:150%;font-size:12pt">Human Computer Interaction Institute, Carnegie Mellon University, USA</span></p>
-<p style="margin:0cm 0cm 0pt;line-height:150%;text-indent:84pt"><span lang="EN-US" style="line-height:150%;font-size:12pt">&nbsp;<span>&nbsp;&nbsp;</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span lang="EN-US" style="line-height:150%;font-size:12pt">Advised by Prof. <a href="http://www.cs.cmu.edu/~jasonh/" rel="nofollow" target="_blank"><font face="arial,sans-serif" size="3">Jason Hong </font></a></span></p>
-</div>
-
-<div style="margin:0cm 0cm 0pt;line-height:150%"><span lang="EN-US" style="line-height:150%;font-size:12pt">2011.9-2016.6  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><Strong>Ph. D&nbsp; Student</Strong></span></div>
-<p style="margin:0cm 0cm 0pt;line-height:150%;text-indent:84pt"><span lang="EN-US" style="line-height:150%;font-size:12pt">&nbsp;<span>&nbsp;&nbsp;</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span lang="EN-US" style="line-height:150%;font-size:12pt">Peking University, China</span></p>
-<p style="margin:0cm 0cm 0pt;line-height:150%;text-indent:84pt"><span lang="EN-US" style="line-height:150%;font-size:12pt">&nbsp;<span>&nbsp;&nbsp;</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span lang="EN-US" style="line-height:150%;font-size:12pt">Advised by Prof. <a href="http://www.sei.pku.edu.cn/~yaoguo/" rel="nofollow" target="_blank"><font face="arial,sans-serif" size="3">Yao Guo</font></a> and Prof. Xiangqun Chen</span></p>
-</div>
-
-
-<div style="margin:0cm 0cm 0pt;line-height:150%"><span lang="EN-US" style="line-height:150%;font-size:12pt">2010.9-2011.1<span>&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><Strong>Visiting Student </Strong></span></div>
-<p style="margin:0cm 0cm 0pt;line-height:150%;text-indent:84pt"><span lang="EN-US" style="line-height:150%;font-size:12pt">&nbsp;<span>&nbsp;&nbsp;</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span lang="EN-US" style="line-height:150%;font-size:12pt"> National Chiao Tung University, Taiwan</span></p></div>
-
-<div style="margin:0cm 0cm 0pt;line-height:150%"><span lang="EN-US" style="line-height:150%;font-size:12pt">2007.9-2011.6<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span><Strong>Undergraduate Student</Strong> </span></div>
-<p style="margin:0cm 0cm 0pt;line-height:150%;text-indent:84pt"><span lang="EN-US" style="line-height:150%;font-size:12pt">&nbsp;<span>&nbsp;&nbsp;</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span lang="EN-US" style="line-height:150%;font-size:12pt"> Xiamen University, China</span></p></div>
--->
+<br>
+<br>
 
 </font></font></font></font></span></p><hr><font face="arial,sans-serif" size="3"><font face="arial,sans-serif" size="3"><font face="arial,sans-serif" size="3">
 
-<p style="margin:0cm 0cm 0pt;line-height:150%"><b><span lang="EN-US" style="line-height:150%;font-size:14pt"><font face="arial,sans-serif">Publications </ font></span></b></p></font>
+<p style="margin:0cm 0cm 0pt;line-height:150%"><b><span lang="EN-US" style="line-height:150%;font-size:14pt"><font face="arial,sans-serif">Publications (<a href="https://scholar.google.com/citations?user=b1Oh6BQAAAAJ&hl=en">Google Scholar</a>) </ font></span></b></p></font>
 
 <ol>
 
 
 
+<strong>Summary: Full Papers in top-tier venues (23), CCF A (21)</strong>
+<br> <br>
+
+<strong>SE&Security:</strong> CCS*2, ESEC/FSE*3, ASE*5, ISSTA*2, OOPSLA*1, TDSC*1
+<br>
+<br>
+<strong>Mobile, Web&Measurement:</strong> WWW*5,  SIGMETRICS*1, IMC*1, UbiComp*1, TOIS*1
+<br>
+<br>
+
+<i>  * denotes the corresponding author, (s) indicates the student/RA I advised or co-advised, # indicates co-first authors </i>
+<br>
+<br>
 
 <strong> 2020  </strong>
 <hr>
 
 
+
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-Ren He, <strong>Haoyu Wang*</strong>, Pengcheng Xia, Liu Wang, Yuanchun Li, Lei Wu, Yajin Zhou, Xiapu Luo, Yao Guo, Guoai Xu.
+Pengcheng Xia<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Xiapu Luo, Lei Wu, Yajin Zhou, Guangdong Bai, Guoai Xu, Gang Huang, Xuanzhe Liu.
+<br>
+"Don't Fish in Troubled Waters! Characterizing Coronavirus-themed Cryptocurrency Scams".
+<br>
+<strong><i>https://arxiv.org/abs/2007.13639</i>
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
+
+
+
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+Ren He<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Pengcheng Xia, Liu Wang, Yuanchun Li, Lei Wu, Yajin Zhou, Xiapu Luo, Yao Guo, Guoai Xu.
 <br>
 "Beyond the Virus: A First Look at Coronavirus-themed Mobile Malware".
 <br>
 <strong><i>https://arxiv.org/abs/2005.14619</i>
+
 </strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
 <br>
+
+
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+Ningyu He<sup>(s)</sup>, Ruiyi Zhang, Lei Wu, <strong>Haoyu Wang*</strong>, Xiapu Luo, Yao Guo*, Ting Yu, and Xuxian Jiang.
+<br>
+"Security analysis of EOSIO smart contracts".
+<br>
+<strong><i>https://arxiv.org/abs/2003.06568</i>
+
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
+
+
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+Yuheng Huang<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Lei Wu, Gareth Tyson, Xiapu Luo, Run Zhang<sup>(s)</sup>, Xuanzhe Liu, Gang Huang and Xuxian Jiang.
+<br>
+"Understanding (Mis)Behavior on the EOSIO Blockchain".
+<br>
+<strong><i>ACM SIGMETRICS 2020  (Acceptance Rate: 15%), published in ACM POMACS </i>
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
+
+
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+Yulei Su, Xiao Chengi<sup>(s)</sup>, Guanqin Zhang, and <strong>Haoyu Wang</strong>.
+<br>
+"Flow2Vec: Value-Flow-Based Precise Code Embedding".
+<br>
+<strong><i>ACM OOPSLA 2020 </i>.
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
+
+
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+Pengcheng Xia<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Bowen Zhang<sup>(s)</sup>, Ru Ji<sup>(s)</sup>, Bingyu Gao<sup>(s)</sup>, Lei Wu, Xiapu Luo, and Guoai Xu.
+<br>
+"Characterizing Cryptocurrency Exchange Scams".
+<br>
+<strong><i>Elsevier Computers & Security (<a href="https://www.journals.elsevier.com/computers-and-security">COSE</a>, IF=3.579) </i>.
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
+
+
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+Hao Zhou, <strong>Haoyu Wang</strong>, Yajin Zhou, Xiapu Luo, Yutian Tang, Lei Xue and Ting Wang.
+<br>
+"Demystifying Diehard Android Apps".
+<br>
+<strong><i> The 35th IEEE/ACM International Conference on Automated Software Engineering (ASE 2020), acceptance rate = 22.5%</i>.
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
+
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+Xian Zhan, Lingling Fan, Tianming Liu<sup>(s)</sup>, Sen Chen, Li Li, <strong>Haoyu Wang</strong>, Yifei Xu, Xiapu Luo and Yang Liu.
+<br>
+"Automated Third-party Library Detection for Android Applications: Are We There Yet?"
+<br>
+<strong><i> The 35th IEEE/ACM International Conference on Automated Software Engineering (ASE 2020), acceptance rate = 22.5% </i>.
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
+
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+Hao Zhou, Ting Chen, <strong>Haoyu Wang</strong>, Le Yu, Xiapu Luo, Ting Wang and Wei Zhang.
+<br>
+"UI Obfuscation and its Effects on Automated UI Analysis for Android Apps"
+<br>
+<strong><i> The 35th IEEE/ACM International Conference on Automated Software Engineering (ASE 2020), acceptance rate = 22.5% </i>.
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
+
+
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+Ru Ji<sup>(s)</sup>#, Ningyu He<sup>(s)</sup>#, Lei Wu, <strong>Haoyu Wang*</strong>, Guangdong Bai and Yao Guo.
+<br>
+"DEPOSafe: Demystifying the Fake Deposit Vulnerability in Ethereum Smart Contracts".
+<br>
+<strong><i> The 25th International Conference on Engineering of Complex Computer Systems (ICECCS 2020)</i>.
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
+
+
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+Yangyu Hu<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Ren He<sup>(s)</sup>, Li Li, Gareth Tyson, Ignacio Castro, Yao Guo, Lei Wu and Guoai Xu.
+<br>
+"Mobile App Squatting".
+<br>
+<strong><i>The Web Conference 2020 (WWW'20), acceptance rate = 19%, Full paper, Oral </i>.<br>
+<i style="color:#0000FF">BEST STUDENT PAPER AWARD (the first award in China) </i>
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
+
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+Tianming Liu#<sup>(s)</sup>, <strong>Haoyu Wang#*</strong>, Li Li, Xiapu Luo, Feng Dong<sup>(s)</sup>, Yao Guo, Liu Wang<sup>(s)</sup>, Tegawende F. Bissyande and Jacques Klein
+<br>
+"MadDroid: Characterising and Detecting Devious Ad Content for Android Apps".
+<br>
+<strong><i>The Web Conference 2020 (WWW'20), acceptance rate = 19%, Full paper, Oral </i>.
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
+
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
@@ -132,41 +247,23 @@ Zhenpeng Chen, Yanbin Cao, Yuanqiang Liu, <strong>Haoyu Wang</strong>, Tao Xie a
 
 
 
+
+
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-Yuheng Huang, <strong>Haoyu Wang*</strong>, Lei Wu, Gareth Tyson, Xiapu Luo, Run Zhang, Xuanzhe Liu, Gang Huang and Xuxian Jiang.
+Guosheng Xu, Yangyu Hu<sup>(s)</sup>, Qian Guo<sup>(s)</sup>, Ren He<sup>(s)</sup>, Li Li, Guoai Xu, Zhihui Han,  <strong>Haoyu Wang</strong>
 <br>
-"Understanding (Mis)Behavior on the EOSIO Blockchain".
+"Dissecting Mobile Offerwall Advertisements: An Explorative Study".
 <br>
-<strong><i>ACM SIGMETRICS 2020  (Acceptance Rate: 15%) </i>.
+<strong><i>The 20th IEEE International Conference on Software Quality, Reliability, and Security (QRS'20)</i>.
 </strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
 <br>
 
 
-<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
-<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-Yangyu Hu, <strong>Haoyu Wang*</strong>, Ren He, Li Li, Gareth Tyson, Ignacio Castro, Yao Guo, Lei Wu and Guoai Xu.
-<br>
-"Mobile App Squatting".
-<br>
-<strong><i>The Web Conference 2020 (WWW'20), acceptance rate = 19%, Full paper, Oral </i>.
-<p style="color:#0000FF">BEST STUDENT PAPER AWARD (first in China) </p>
-</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
-<br>
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-Tianming Liu, <strong>Haoyu Wang*</strong>, Li Li, Xiapu Luo, Feng Dong, Yao Guo, Liu Wang, Tegawende F. Bissyande and Jacques Klein
-<br>
-"MadDroid: Characterising and Detecting Devious Ad Content for Android Apps".
-<br>
-<strong><i>The Web Conference 2020 (WWW'20), acceptance rate = 19%, Full paper, Oral </i>.
-</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
-<br>
-
-<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
-<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-Ningyu He, Lei Wu, <strong>Haoyu Wang*</strong>,  Yao Guo, and Xuxian Jiang.
+Ningyu He<sup>(s)</sup>, Lei Wu, <strong>Haoyu Wang*</strong>,  Yao Guo, and Xuxian Jiang.
 <br>
 "Characterizing Code Clones in the Ethereum Smart Contract Ecosystem".
 <br>
@@ -176,7 +273,7 @@ Ningyu He, Lei Wu, <strong>Haoyu Wang*</strong>,  Yao Guo, and Xuxian Jiang.
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-Maria K Wolters, Shuobing Li, <strong>Haoyu Wang</strong>,  Xinyu Yang, and Yao Guo
+Maria K Wolters, Shuobing Li, <strong>Haoyu Wang</strong>,  Xinyu Yang<sup>(s)</sup>, and Yao Guo
 <br>
 "Does the Presence of Privacy Relevant Information Affect App Market Choice?".
 <br>
@@ -185,13 +282,25 @@ Maria K Wolters, Shuobing Li, <strong>Haoyu Wang</strong>,  Xinyu Yang, and Yao 
 <br>
 
 
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+Wenxiong Lu<sup>(s)</sup>, <strong>Haoyu Wang*</strong>
+<br>
+"Same origin based fine-grained privacy protection for mobile applications".
+<br>
+<strong><i>Invited Paper, BIG DATA RESEARCH (in Chinese) </i>.
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
+
+
+
 <strong> 2019  </strong>
 <hr>
 
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-Zeliang Kan, <strong>Haoyu Wang*</strong>, Lei Wu, Yao Guo, and Xiapu Luo.
+Zeliang Kan<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Lei Wu, Yao Guo, and Xiapu Luo.
 <br>
 "Automated Deobfuscation of Android Native Binary Code".
 <br>
@@ -203,11 +312,9 @@ Tool: https://github.com/DiANa-deobfuscation-2020/DiANa
 
 
 
-
-
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-Lijin Quan, Lei Wu, and <strong>Haoyu Wang*</strong>.
+Lijin Quan<sup>(s)</sup>, Lei Wu, and <strong>Haoyu Wang*</strong>.
 <br>
 "EVulHunter: Detecting Fake Transfer Vulnerabilities for EOSIO's Smart Contracts at Webassembly-level".
 <br>
@@ -233,7 +340,7 @@ Shengqu Xi, Shao Yang, Xusheng Xiao, Yuan Yao, Yayuan Xiong, Fengyuan Xu, <stron
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-Zhuotao Liu, Yangxi Xiang, Jian Shi, Peng Gao, <strong>Haoyu Wang*</strong>, Xusheng Xiao, Bihan Wen, Yih-Chun Hu.
+Zhuotao Liu, Yangxi Xiang<sup>(s)</sup>, Jian Shi, Peng Gao, <strong>Haoyu Wang*</strong>, Xusheng Xiao, Bihan Wen, Yih-Chun Hu.
 <br>
 "HyperService: Interoperability and Programmability across Heterogeneous Blockchains". PDF
 <br>
@@ -244,7 +351,7 @@ Zhuotao Liu, Yangxi Xiang, Jian Shi, Peng Gao, <strong>Haoyu Wang*</strong>, Xus
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-<strong>Haoyu Wang*</strong>, Hongxuan Liu, Xusheng Xiao, Guozhu Meng, and Yao Guo.
+<strong>Haoyu Wang*</strong>, Hongxuan Liu<sup>(s)</sup>, Xusheng Xiao, Guozhu Meng, and Yao Guo.
 <br>
 "Characterizing Android App Signing Issues". PDF
 <br>
@@ -254,7 +361,7 @@ Zhuotao Liu, Yangxi Xiang, Jian Shi, Peng Gao, <strong>Haoyu Wang*</strong>, Xus
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-Tianming Liu, <strong>Haoyu Wang*</strong>, Li Li, Guangdong Bai, Yao Guo and Guoai Xu.
+Tianming Liu#<sup>(s)</sup>, <strong>Haoyu Wang#*</strong>, Li Li, Guangdong Bai, Yao Guo and Guoai Xu.
 <br>
 "DaPanda: Detecting Aggressive Push Notification in Android Apps". PDF
 <br>
@@ -267,7 +374,7 @@ Tianming Liu, <strong>Haoyu Wang*</strong>, Li Li, Guangdong Bai, Yao Guo and Gu
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-Yangyu Hu, <strong>Haoyu Wang*</strong>, Yajin Zhou*, Yao Guo, Li Li, Bingxuan Luo, Fangren Xu.
+Yangyu Hu<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Yajin Zhou*, Yao Guo, Li Li, Bingxuan Luo, Fangren Xu.
 <br>
 "Dating with Scambots: Understanding the Ecosystem of Fraudulent Dating Applications". PDF
 <br>
@@ -290,7 +397,7 @@ Yangyu Hu, <strong>Haoyu Wang*</strong>, Yajin Zhou*, Yao Guo, Li Li, Bingxuan L
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
- Xiao Cheng, <strong>Haoyu Wang*</strong>, Jiayi Hua, Miao Zhang, Guoai Xu, Li Yi and Yulei Sui.
+ Xiao Cheng<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Jiayi Hua<sup>(s)</sup>, Miao Zhang, Guoai Xu, Li Yi and Yulei Sui.
 <br>
 "Static Detection of Control-Flow-Related Vulnerabilities Using Graph Embedding". PDF
 <br>
@@ -301,7 +408,7 @@ Yangyu Hu, <strong>Haoyu Wang*</strong>, Yajin Zhou*, Yao Guo, Li Li, Bingxuan L
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-Qian Guo, <strong>Haoyu Wang*</strong>, Chenwei Zhang, Yao Guo and Guoai Xu.
+Qian Guo<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Chenwei Zhang, Yao Guo and Guoai Xu.
 <br>
 "AppNet: Understanding App Recommendation in Google Play". PDF
 <br>
@@ -325,7 +432,7 @@ Quanqi Ye, Yan Zhang, Guangdong Bai, Naipeng Dong, Zhenkai Liang, Jin Song Dong 
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
- Zeliang Kan, <strong>Haoyu Wang*</strong>, Lei Wu, Yao Guo and Guoai Xu.
+ Zeliang Kan<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Lei Wu, Yao Guo and Guoai Xu.
 <br>
 "Deobfuscating Android Native Binary Code". PDF
 <br>
@@ -349,7 +456,7 @@ Li Li, Timothee Riom, Tegawende F. Bissyande, <strong>Haoyu Wang</strong>,  Jacq
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
- <strong>Haoyu Wang</strong>, Xupu Wang and Yao Guo.
+ <strong>Haoyu Wang</strong>, Xupu Wang<sup>(s)</sup> and Yao Guo.
 <br>
 "Characterizing the Global Mobile App Developers: A Large-scale Empirical Study". PDF
 <br>
@@ -372,7 +479,7 @@ Li Li, Timothee Riom, Tegawende F. Bissyande, <strong>Haoyu Wang</strong>,  Jacq
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-Yangyu Hu, <strong>Haoyu Wang*</strong>, Li Li, Yao Guo, Guoai Xu and Ren He.
+Yangyu Hu<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Li Li, Yao Guo, Guoai Xu and Ren He<sup>(s)</sup>.
 <br>
 "Want to Earn a Few Extra Bucks? A First Look at Money-making Apps". PDF
 <br>
@@ -384,7 +491,7 @@ Yangyu Hu, <strong>Haoyu Wang*</strong>, Li Li, Yao Guo, Guoai Xu and Ren He.
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-Yanjie Zhao, <strong>Haoyu Wang*</strong>, Lei Ma, Yuxin Liu, Li Li and John Grundy.
+Yanjie Zhao<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Lei Ma, Yuxin Liu, Li Li and John Grundy.
 <br>
 "Knowledge Graphing Git Repositories: A Preliminary Study". PDF
 <br>
@@ -404,7 +511,7 @@ Li Li, Tegawende F. Bissyande, <strong>Haoyu Wang</strong> and Jacques Klein.
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-Guoai Xu, Chengpeng Zhang, Bowen Sun, Xinyu Yang, Yanhui Guo, Chengze Li, <strong>Haoyu Wang</strong>.
+Guoai Xu, Chengpeng Zhang<sup>(s)</sup>, Bowen Sun<sup>(s)</sup>, Xinyu Yang<sup>(s)</sup>, Yanhui Guo, Chengze Li<sup>(s)</sup>, <strong>Haoyu Wang</strong>.
 <br>
 "AppAuth: Authorship Attribution for Android App Clones". PDF
 <br>
@@ -414,7 +521,7 @@ Guoai Xu, Chengpeng Zhang, Bowen Sun, Xinyu Yang, Yanhui Guo, Chengze Li, <stron
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
 Miao Zhang, Shuai Shao, <strong>Haoyu Wang</strong>.
 <br>
-"Mobile Device Security"
+&lt;&lt;Mobile Device Security&gt;&gt;
 <br>
 BOOK (textbook for undergraduate student), BUPT Press
 <br>
@@ -425,7 +532,7 @@ BOOK (textbook for undergraduate student), BUPT Press
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
 <strong>Haoyu Wang</strong>, Guoai Xu, Yao Guo.
 <br>
-"Mobile Application Security".
+&lt;&lt;Mobile Application Security&gt;&gt;
 <br>
 BOOK (textbook for graduate student), BUPT Press
 <br>
@@ -440,7 +547,7 @@ BOOK (textbook for graduate student), BUPT Press
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-<strong>Haoyu Wang</strong>, Zhe Liu, Jingyue Liang, Narseo Vallina-Rodriguez, Yao Guo, Li Li, Juan Tapiador, Jingcun Cao, Guoai Xu.
+<strong>Haoyu Wang</strong>, Zhe Liu<sup>(s)</sup>, Jingyue Liang<sup>(s)</sup>, Narseo Vallina-Rodriguez, Yao Guo, Li Li, Juan Tapiador, Jingcun Cao, Guoai Xu.
 <br>
 "Beyond Google Play: A Large-Scale Comparative Study of Chinese Android App Markets". PDF
 <br>
@@ -451,7 +558,7 @@ BOOK (textbook for graduate student), BUPT Press
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-Feng Dong, <strong>Haoyu Wang* (co-first author)</strong>, Li Li, Yao Guo, Tegawende F. Bissyande, Tianming Liu, Guoai Xu and Jacques Klein
+Feng Dong<sup>(s)</sup>, <strong>Haoyu Wang* (co-first author)</strong>, Li Li, Yao Guo, Tegawende F. Bissyande, Tianming Liu, Guoai Xu and Jacques Klein
 <br>
 "FraudDroid: Automated Ad Fraud Detection for Android Apps". PDF
 <br>
@@ -474,7 +581,7 @@ Li Li, Tegawende F. Bissyande, <strong>Haoyu Wang</strong>, Jacques Klein.
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-Feng Dong, <strong>Haoyu Wang*</strong>, Li Li, Yao Guo, Guoai Xu, Shaodong Zhang.
+Feng Dong<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Li Li, Yao Guo, Guoai Xu, Shaodong Zhang.
 <br>
 "How do Mobile Apps Violate the Behavioral Policy of Advertisement Libraries? ". PDF
 <br>
@@ -494,7 +601,7 @@ Feng Dong, <strong>Haoyu Wang*</strong>, Li Li, Yao Guo, Guoai Xu, Shaodong Zhan
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-Zeliang Kan, <strong>Haoyu Wang</strong>, Guoai Xu, Yao Guo, Xiangqun Chen.
+Zeliang Kan<sup>(s)</sup>, <strong>Haoyu Wang</strong>, Guoai Xu, Yao Guo, Xiangqun Chen.
 <br>
 "Towards Light-weight Deep Learning based Malware Detection ". PDF
 <br>
@@ -507,7 +614,7 @@ Zeliang Kan, <strong>Haoyu Wang</strong>, Guoai Xu, Yao Guo, Xiangqun Chen.
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-Chengpeng Zhang, <strong>Haoyu Wang*</strong>, Ran Wang, Yao Guo, Guoai Xu.
+Chengpeng Zhang<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Ran Wang, Yao Guo, Guoai Xu.
 <br>
 "Re-checking App Behavior against App Description in the Context of Third-party Libraries". PDF
 <br>
@@ -523,7 +630,7 @@ Chengpeng Zhang, <strong>Haoyu Wang*</strong>, Ran Wang, Yao Guo, Guoai Xu.
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-<strong>Haoyu Wang</strong>, Zhe Liu, Yao Guo, Xiangqun Chen, Miao Zhang, Guoai Xu and Jason Hong.
+<strong>Haoyu Wang</strong>, Zhe Liu<sup>(s)</sup>, Yao Guo, Xiangqun Chen, Miao Zhang, Guoai Xu and Jason Hong.
 <br>
 "An Explorative Study of the Mobile App Ecosystem from App Developers' Perspective". PDF
 <br>
@@ -564,7 +671,7 @@ Chengpeng Zhang, <strong>Haoyu Wang*</strong>, Ran Wang, Yao Guo, Guoai Xu.
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-Chengze Li, <strong>Haoyu Wang</strong>, Junfeng Wang, Qi Li, Jianbo Yu, Jingyi Guo, Guoai Xu and Yanhui Guo
+Chengze Li<sup>(s)</sup>, <strong>Haoyu Wang</strong>, Junfeng Wang, Qi Li, Jianbo Yu, Jingyi Guo, Guoai Xu and Yanhui Guo
 <br>
 "CRSPR: PageRank for Android Apps". PDF
 <br>
@@ -588,7 +695,7 @@ Chengze Li, <strong>Haoyu Wang</strong>, Junfeng Wang, Qi Li, Jianbo Yu, Jingyi 
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-ZHANG Xianxian, <strong>WANG Haoyu</strong>, GUO Yao and XU Guoai.
+ZHANG Xianxian<sup>(s)</sup>, <strong>WANG Haoyu</strong>, GUO Yao and XU Guoai.
 <br>
 "Privacy Rating for Mobile Apps based on Crowdsourcing and Machine-learning Techniques". PDF
 <br>
@@ -598,7 +705,7 @@ ZHANG Xianxian, <strong>WANG Haoyu</strong>, GUO Yao and XU Guoai.
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-WANG Jingyu, XU Mingkun, <strong>WANG Haoyu</strong> and XU Guoai.
+WANG Jingyu<sup>(s)</sup>, XU Mingkun, <strong>WANG Haoyu</strong> and XU Guoai.
 <br>
 "Automated Detection of the Inconsistence between App Behavior and Privacy Policy of Android Apps". PDF
 <br>
