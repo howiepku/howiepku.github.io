@@ -76,10 +76,10 @@ I was a visiting student at <a href="https://www.cmu.edu/">Carnegie Mellon Unive
 <strong>Summary: Full Papers in top-tier venues (23), CCF A (21)</strong>
 <br> <br>
 
-<strong>SE&Security:</strong> CCS*2, ESEC/FSE*3, ASE*5, ISSTA*2, OOPSLA*1, TDSC*1
+<strong>SE & Security:</strong> CCS*2, ESEC/FSE*3, ASE*5, ISSTA*2, OOPSLA*1, TDSC*1
 <br>
 <br>
-<strong>Mobile, Web&Measurement:</strong> WWW*5,  SIGMETRICS*1, IMC*1, UbiComp*1, TOIS*1
+<strong>Mobile, Web & Measurement:</strong> WWW*5,  SIGMETRICS*1, IMC*1, UbiComp*1, TOIS*1
 <br>
 <br>
 
@@ -99,6 +99,8 @@ Pengcheng Xia<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Xiapu Luo, Lei Wu, Ya
 "Don't Fish in Troubled Waters! Characterizing Coronavirus-themed Cryptocurrency Scams".
 <br>
 <strong><i>https://arxiv.org/abs/2007.13639</i>
+<br>
+<strong><i>open source COVID-19 cryptocurrency scam dataset:   https://covid19scam.github.io  </i>
 </strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
 <br>
 
@@ -141,7 +143,7 @@ Yuheng Huang<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Lei Wu, Gareth Tyson, 
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-Yulei Su, Xiao Chengi<sup>(s)</sup>, Guanqin Zhang, and <strong>Haoyu Wang</strong>.
+Yulei Sui, Xiao Cheng<sup>(s)</sup>, Guanqin Zhang, and <strong>Haoyu Wang</strong>.
 <br>
 "Flow2Vec: Value-Flow-Based Precise Code Embedding".
 <br>
