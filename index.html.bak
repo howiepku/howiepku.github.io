@@ -76,12 +76,14 @@ I was a visiting student at <a href="https://www.cmu.edu/">Carnegie Mellon Unive
 <strong>Summary: Full Papers in Top-tier Venues (23), CCF A (21)</strong>
 <br> <br>
 
+<!--
 <strong>SE & Security:</strong> CCS*2, ESEC/FSE*3, ASE*5, ISSTA*2, OOPSLA*1, TDSC*1
 <br>
 <br>
 <strong>Mobile, Web & Measurement:</strong> WWW*5,  SIGMETRICS*1, IMC*1, UbiComp*1, TOIS*1
 <br>
 <br>
+-->
 
 <i>  * denotes the corresponding author, (s) indicates the student/RA I advised or co-advised, # indicates co-first authors </i>
 <br>
@@ -108,7 +110,7 @@ Pengcheng Xia<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Xiapu Luo, Lei Wu, Ya
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-Ren He<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Pengcheng Xia, Liu Wang, Yuanchun Li, Lei Wu, Yajin Zhou, Xiapu Luo, Yao Guo, Guoai Xu.
+Ren He<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Pengcheng Xia<sup>(s)</sup>, Liu Wang<sup>(s)</sup>, Yuanchun Li, Lei Wu, Yajin Zhou, Xiapu Luo, Yao Guo, Guoai Xu.
 <br>
 "Beyond the Virus: A First Look at Coronavirus-themed Mobile Malware".
 <br>
