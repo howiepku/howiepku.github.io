@@ -93,6 +93,25 @@ I was a visiting student at <a href="https://www.cmu.edu/">Carnegie Mellon Unive
 <hr>
 
 
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+Ru Ji<sup>(s)</sup>#, Ningyu He<sup>(s)</sup>#, Lei Wu, <strong>Haoyu Wang*</strong>, Guangdong Bai and Yao Guo.
+<br>
+"DEPOSafe: Demystifying the Fake Deposit Vulnerability in Ethereum Smart Contracts".
+<br>
+<strong><i> The 25th International Conference on Engineering of Complex Computer Systems (ICECCS 2020)</i>.
+<br>
+<strong><i style="color:#0000FF">Media Report: <a href="https://www.coindesk.com/erc-20-ethereum-tokens-fake-deposit">CoinDesk</a>,
+ <a href="https://sg.finance.yahoo.com/news/ethereum-tokens-worth-1b-vulnerable-154545677.html">Yahoo Finance</a>,
+ <a href="https://coingeek.com/1b-ethereum-tokens-at-risk-of-fake-deposit-attack/">Coin Geek</a>,
+ <a href="https://www.publish0x.com/cryptoworld-cw/about-dollar-1b-in-ethereum-tokens-are-vulnerable-to-fake-de-xolyyzl">Publish0x</a>,
+ <a href="https://www.nasdaq.com/articles/ethereum-tokens-worth-%241b-vulnerable-to-fake-deposit-attack-2020-08-25">nasdaq.com</a>,
+ <a href="https://cryptonews.com.au/story/ethereum-tokens-worth-1b-vulnerable-to-fake-deposit-attack-134773">Cryptonews</a>
+</i>
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
+
+
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
@@ -104,7 +123,9 @@ Pengcheng Xia<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Xiapu Luo, Lei Wu, Ya
 <br>
 <strong><i>arXiv Preprint https://arxiv.org/abs/2007.13639</i>
 <br>
-<strong><i style="color:#0000FF">Open Source COVID-19 Cryptocurrency Scam Dataset:   https://covid19scam.github.io  </i>
+<strong><i style="color:#0000FF">Open Source COVID-19 Cryptocurrency Scam Dataset:  
+ <a href="https://covid19scam.github.io">Github</a>
+ </i>
 </strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
 <br>
 
@@ -118,7 +139,10 @@ Ren He<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Pengcheng Xia<sup>(s)</sup>,
 <br>
 <strong><i>https://arxiv.org/abs/2005.14619</i>
 <br>
-<strong><i style="color:#0000FF">Open Source COVID-19 Mobile App (Malware) Dataset:   https://covid19apps.github.io/  or  https://zenodo.org/record/3875976  </i>
+<strong><i style="color:#0000FF">Open Source COVID-19 Mobile App (Malware) Dataset:   
+<a href=" https://covid19apps.github.io/">Github</a>,
+<a href="https://zenodo.org/record/3875976">Zenodo</a>
+</i>
 </strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
 <br>
 
@@ -149,23 +173,7 @@ Yuheng Huang<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Lei Wu, Gareth Tyson, 
 <br>
 
 
-<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
-<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-Ru Ji<sup>(s)</sup>#, Ningyu He<sup>(s)</sup>#, Lei Wu, <strong>Haoyu Wang*</strong>, Guangdong Bai and Yao Guo.
-<br>
-"DEPOSafe: Demystifying the Fake Deposit Vulnerability in Ethereum Smart Contracts".
-<br>
-<strong><i> The 25th International Conference on Engineering of Complex Computer Systems (ICECCS 2020)</i>.
-<br>
-<strong><i style="color:#0000FF">Media Report: <a href="https://www.coindesk.com/erc-20-ethereum-tokens-fake-deposit">CoinDesk</a> 
- <a href="https://sg.finance.yahoo.com/news/ethereum-tokens-worth-1b-vulnerable-154545677.html">Yahoo Finance</a>
- <a href="https://coingeek.com/1b-ethereum-tokens-at-risk-of-fake-deposit-attack/">Coin Geek</a>
- <a href="https://www.publish0x.com/cryptoworld-cw/about-dollar-1b-in-ethereum-tokens-are-vulnerable-to-fake-de-xolyyzl">Publish0x</a>
- <a href="https://www.nasdaq.com/articles/ethereum-tokens-worth-%241b-vulnerable-to-fake-deposit-attack-2020-08-25">nasdaq.com</a>
- <a href="https://cryptonews.com.au/story/ethereum-tokens-worth-1b-vulnerable-to-fake-deposit-attack-134773">Cryptonews</a>
-</i>
-</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
-<br>
+
 
 
 
