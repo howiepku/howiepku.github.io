@@ -89,6 +89,27 @@ I was a visiting student at <a href="https://www.cmu.edu/">Carnegie Mellon Unive
 <br>
 <br>
 
+
+
+
+<strong> 2021  </strong>
+<hr>
+
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+Bingyu Gao<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Pengcheng Xia<sup>(s)</sup>,  Siwei Wu, Yajin Zhou, Xiapu Luo, and Gareth Tyson.
+<br>
+"Understanding (Mis)Behavior on the EOSIO Blockchain".
+<br>
+<strong><i>ACM SIGMETRICS 2020  (Acceptance Rate: 15%), published in ACM POMACS </i>
+<br>
+<strong><i style="color:#0000C6">Open Source Dataset:
+<a href="https://github.com/EOSIO-analysis/EOSIO_open_source_data">Github</a>
+</i>
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
+
+
 <strong> 2020  </strong>
 <hr>
 
@@ -101,12 +122,13 @@ Ru Ji<sup>(s)</sup>#, Ningyu He<sup>(s)</sup>#, Lei Wu, <strong>Haoyu Wang*</str
 <br>
 <strong><i> The 25th International Conference on Engineering of Complex Computer Systems (ICECCS 2020)</i>.
 <br>
-<strong><i style="color:#0000C6">Media Report: <a href="https://www.coindesk.com/erc-20-ethereum-tokens-fake-deposit">CoinDesk</a>,
+<strong><i style="color:#0000C6">Media Coverage: <a href="https://www.coindesk.com/erc-20-ethereum-tokens-fake-deposit">CoinDesk</a>,
  <a href="https://sg.finance.yahoo.com/news/ethereum-tokens-worth-1b-vulnerable-154545677.html">Yahoo Finance</a>,
  <a href="https://coingeek.com/1b-ethereum-tokens-at-risk-of-fake-deposit-attack/">Coin Geek</a>,
  <a href="https://www.publish0x.com/cryptoworld-cw/about-dollar-1b-in-ethereum-tokens-are-vulnerable-to-fake-de-xolyyzl">Publish0x</a>,
  <a href="https://www.nasdaq.com/articles/ethereum-tokens-worth-%241b-vulnerable-to-fake-deposit-attack-2020-08-25">nasdaq.com</a>,
  <a href="https://cryptonews.com.au/story/ethereum-tokens-worth-1b-vulnerable-to-fake-deposit-attack-134773">Cryptonews</a>
+  <a href="https://coingenius.news/ethereum-tokens-worth-1b-vulnerable-to-fake-deposit-attack/">CoinGenius</a>
 </i>
 </strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
 <br>
@@ -123,7 +145,7 @@ Pengcheng Xia<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Xiapu Luo, Lei Wu, Ya
 <br>
 <strong><i>arXiv Preprint https://arxiv.org/abs/2007.13639</i>
 <br>
-<strong><i style="color:#0000C6">Open Source COVID-19 Cryptocurrency Scam Dataset:  
+<strong><i style="color:#0000C6">Open Source COVID-19 Cryptocurrency Scam Dataset:
  <a href="https://covid19scam.github.io">Github</a>
  </i>
 </strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
@@ -139,7 +161,7 @@ Ren He<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Pengcheng Xia<sup>(s)</sup>,
 <br>
 <strong><i>https://arxiv.org/abs/2005.14619</i>
 <br>
-<strong><i style="color:#0000C6">Open Source COVID-19 Mobile App (Malware) Dataset:   
+<strong><i style="color:#0000C6">Open Source COVID-19 Mobile App (Malware) Dataset:
 <a href="https://covid19apps.github.io/">Github</a>,
 <a href="https://zenodo.org/record/3875976">Zenodo</a>
 </i>
@@ -167,7 +189,7 @@ Yuheng Huang<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Lei Wu, Gareth Tyson, 
 <br>
 <strong><i>ACM SIGMETRICS 2020  (Acceptance Rate: 15%), published in ACM POMACS </i>
 <br>
-<strong><i style="color:#0000C6">Open Source Dataset:   
+<strong><i style="color:#0000C6">Open Source Dataset:
 <a href="https://github.com/EOSIO-analysis/EOSIO_open_source_data">Github</a>
 </i>
 </strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
