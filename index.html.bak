@@ -73,7 +73,7 @@ I was a visiting student at <a href="https://www.cmu.edu/">Carnegie Mellon Unive
 
 
 
-<strong>Summary: Full Papers in Top-tier Venues (23), CCF A (21)</strong>
+<strong>Summary: Full Papers in Top-tier Venues (25), CCF A (22)</strong>
 <br> <br>
 
 <!--
@@ -97,7 +97,48 @@ I was a visiting student at <a href="https://www.cmu.edu/">Carnegie Mellon Unive
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+Yangyu Hu<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Tiantong Ji, Xusheng Xiao, Xiapu Luo, Peng Gao and Yao Guo.
+<br>
+"CHAMP: Characterizing Undesired App Behaviors from User Comments based on Market Policies".
+<br>
+<strong><i>ACM SIGMETRICS 2021  (Acceptance Rate: 16%), will be published in ACM POMACS </i>
+<br>
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
+
+
+
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
 Bingyu Gao<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Pengcheng Xia<sup>(s)</sup>,  Siwei Wu, Yajin Zhou, Xiapu Luo, and Gareth Tyson.
+<br>
+"Tracking Counterfeit Cryptocurrency End-to-end".
+<br>
+<strong><i>ACM SIGMETRICS 2021  (Acceptance Rate: 16%), will be published in ACM POMACS </i>
+<br>
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
+
+
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+Xiao Cheng<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Jiayi Hua<sup>(s)</sup>,  Guoai Xu and Yulei Sui.
+<br>
+"DeepWukong: Statically Detecting Software Vulnerabilities using Deep Graph Neural Network".
+<br>
+<strong><i>ACM Transactions on Software Engineering and Methodology (TOSEM) </i>
+<br>
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
+
+
+<strong> 2020  </strong>
+<hr>
+
+
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+Yuheng Huang<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Lei Wu, Gareth Tyson, Xiapu Luo, Run Zhang<sup>(s)</sup>, Xuanzhe Liu, Gang Huang and Xuxian Jiang.
 <br>
 "Understanding (Mis)Behavior on the EOSIO Blockchain".
 <br>
@@ -110,8 +151,43 @@ Bingyu Gao<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Pengcheng Xia<sup>(s)</s
 <br>
 
 
-<strong> 2020  </strong>
-<hr>
+
+
+
+
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+Yulei Sui, Xiao Cheng<sup>(s)</sup>, Guanqin Zhang, and <strong>Haoyu Wang</strong>.
+<br>
+"Flow2Vec: Value-Flow-Based Precise Code Embedding".
+<br>
+<strong><i>ACM OOPSLA 2020 </i>.<br>
+<i style="color:red">ACM SIGPLAN Distinguished Paper AWARD </i>
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
+
+
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+Yangyu Hu<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Ren He<sup>(s)</sup>, Li Li, Gareth Tyson, Ignacio Castro, Yao Guo, Lei Wu and Guoai Xu.
+<br>
+"Mobile App Squatting".
+<br>
+<strong><i>The Web Conference 2020 (WWW'20), acceptance rate = 19%, Full paper, Oral </i>.<br>
+<i style="color:red">BEST STUDENT PAPER AWARD (the first award in China) </i>
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
+
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+Tianming Liu#<sup>(s)</sup>, <strong>Haoyu Wang#*</strong>, Li Li, Xiapu Luo, Feng Dong<sup>(s)</sup>, Yao Guo, Liu Wang<sup>(s)</sup>, Tegawende F. Bissyande and Jacques Klein
+<br>
+"MadDroid: Characterising and Detecting Devious Ad Content for Android Apps".
+<br>
+<strong><i>The Web Conference 2020 (WWW'20), acceptance rate = 19%, Full paper, Oral </i>.
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
+
 
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
@@ -142,8 +218,6 @@ Pengcheng Xia<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Xiapu Luo, Lei Wu, Ya
 "Don't Fish in Troubled Waters! Characterizing Coronavirus-themed Cryptocurrency Scams".
 <br>
 <strong><i>APWG Symposium on Electronic Crime Research (eCrime 2020)</i>
-<br>
-<strong><i>arXiv Preprint https://arxiv.org/abs/2007.13639</i>
 <br>
 <strong><i style="color:#0000C6">Open Source COVID-19 Cryptocurrency Scam Dataset:
  <a href="https://covid19scam.github.io">Github</a>
@@ -183,60 +257,6 @@ Ningyu He<sup>(s)</sup>, Ruiyi Zhang, Lei Wu, <strong>Haoyu Wang*</strong>, Xiap
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-Yuheng Huang<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Lei Wu, Gareth Tyson, Xiapu Luo, Run Zhang<sup>(s)</sup>, Xuanzhe Liu, Gang Huang and Xuxian Jiang.
-<br>
-"Understanding (Mis)Behavior on the EOSIO Blockchain".
-<br>
-<strong><i>ACM SIGMETRICS 2020  (Acceptance Rate: 15%), published in ACM POMACS </i>
-<br>
-<strong><i style="color:#0000C6">Open Source Dataset:
-<a href="https://github.com/EOSIO-analysis/EOSIO_open_source_data">Github</a>
-</i>
-</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
-<br>
-
-
-
-
-
-
-<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
-<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-Yulei Sui, Xiao Cheng<sup>(s)</sup>, Guanqin Zhang, and <strong>Haoyu Wang</strong>.
-<br>
-"Flow2Vec: Value-Flow-Based Precise Code Embedding".
-<br>
-<strong><i>ACM OOPSLA 2020 </i>.
-</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
-<br>
-
-
-
-
-<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
-<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-Wei Wang, Guozhu Meng, <strong>Haoyu Wang</strong>, Kai Chen, Weimin Ge and Xiaohong Li.
-<br>
-"A3IDENT: A Two-phased Approach to Identify the Leading Authors of Android Apps".
-<br>
-<strong><i>IEEE International Conference on Software Maintenance and Evolution (ICSME 2020)  </i>.
-</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
-<br>
-
-
-<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
-<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-Pengcheng Xia<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Bowen Zhang<sup>(s)</sup>, Ru Ji<sup>(s)</sup>, Bingyu Gao<sup>(s)</sup>, Lei Wu, Xiapu Luo, and Guoai Xu.
-<br>
-"Characterizing Cryptocurrency Exchange Scams".
-<br>
-<strong><i>Elsevier Computers & Security (<a href="https://www.journals.elsevier.com/computers-and-security">COSE</a>, IF=3.579) </i>.
-</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
-<br>
-
-
-<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
-<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
 Hao Zhou, <strong>Haoyu Wang</strong>, Yajin Zhou, Xiapu Luo, Yutian Tang, Lei Xue and Ting Wang.
 <br>
 "Demystifying Diehard Android Apps".
@@ -265,6 +285,59 @@ Hao Zhou, Ting Chen, <strong>Haoyu Wang</strong>, Le Yu, Xiapu Luo, Ting Wang an
 </strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
 <br>
 
+
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+Yutian Tang, Yulei Sui, <strong>Haoyu Wang</strong>, Xiapu Luo, Hao Zhou and Zhou Xu.
+<br>
+"All Your App Links are Belong to Us: Understanding the Threats of Instant Apps based Attacks".
+<br>
+<strong><i>ESEC/FSE 2020</i>.
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
+
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+Zhenpeng Chen, Yanbin Cao, Yuanqiang Liu, <strong>Haoyu Wang</strong>, Tao Xie and Xuanzhe Liu.
+<br>
+"A Comprehensive Study on Challenges in Deploying Deep Learning Based Software".
+<br>
+<strong><i>ESEC/FSE 2020</i>.
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
+
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+Ningyu He<sup>(s)</sup>, Lei Wu, <strong>Haoyu Wang*</strong>,  Yao Guo, and Xuxian Jiang.
+<br>
+"Characterizing Code Clones in the Ethereum Smart Contract Ecosystem".
+<br>
+<strong><i>The 24th International Conference on Financial Cryptography and Data Security 2020 (FC'20), acceptance rate = 22% </i>.
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
+
+
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+Wei Wang, Guozhu Meng, <strong>Haoyu Wang</strong>, Kai Chen, Weimin Ge and Xiaohong Li.
+<br>
+"A3IDENT: A Two-phased Approach to Identify the Leading Authors of Android Apps".
+<br>
+<strong><i>IEEE International Conference on Software Maintenance and Evolution (ICSME 2020)  </i>.
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
+
+
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+Pengcheng Xia<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Bowen Zhang<sup>(s)</sup>, Ru Ji<sup>(s)</sup>, Bingyu Gao<sup>(s)</sup>, Lei Wu, Xiapu Luo, and Guoai Xu.
+<br>
+"Characterizing Cryptocurrency Exchange Scams".
+<br>
+<strong><i>Elsevier Computers & Security (<a href="https://www.journals.elsevier.com/computers-and-security">COSE</a>, IF=3.579) </i>.
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
+
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
 Huiyi Wang<sup>(s)</sup>, Liu Wang<sup>(s)</sup>, and <strong>Haoyu Wang*</strong>.
@@ -289,54 +362,6 @@ Li Li, Jun Gao, Pingfan Kong, <strong>Haoyu Wang</strong>, Mengyu Huang, Yuan-Fa
 
 
 
-
-
-<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
-<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-Yangyu Hu<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Ren He<sup>(s)</sup>, Li Li, Gareth Tyson, Ignacio Castro, Yao Guo, Lei Wu and Guoai Xu.
-<br>
-"Mobile App Squatting".
-<br>
-<strong><i>The Web Conference 2020 (WWW'20), acceptance rate = 19%, Full paper, Oral </i>.<br>
-<i style="color:#0000C6">BEST STUDENT PAPER AWARD (the first award in China) </i>
-</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
-<br>
-
-<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
-<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-Tianming Liu#<sup>(s)</sup>, <strong>Haoyu Wang#*</strong>, Li Li, Xiapu Luo, Feng Dong<sup>(s)</sup>, Yao Guo, Liu Wang<sup>(s)</sup>, Tegawende F. Bissyande and Jacques Klein
-<br>
-"MadDroid: Characterising and Detecting Devious Ad Content for Android Apps".
-<br>
-<strong><i>The Web Conference 2020 (WWW'20), acceptance rate = 19%, Full paper, Oral </i>.
-</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
-<br>
-
-
-<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
-<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-Yutian Tang, Yulei Sui, <strong>Haoyu Wang</strong>, Xiapu Luo, Hao Zhou and Zhou Xu.
-<br>
-"All Your App Links are Belong to Us: Understanding the Threats of Instant Apps based Attacks".
-<br>
-<strong><i>ESEC/FSE 2020</i>.
-</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
-<br>
-
-<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
-<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-Zhenpeng Chen, Yanbin Cao, Yuanqiang Liu, <strong>Haoyu Wang</strong>, Tao Xie and Xuanzhe Liu.
-<br>
-"A Comprehensive Study on Challenges in Deploying Deep Learning Based Software".
-<br>
-<strong><i>ESEC/FSE 2020</i>.
-</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
-<br>
-
-
-
-
-
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
 Guosheng Xu, Yangyu Hu<sup>(s)</sup>, Qian Guo<sup>(s)</sup>, Ren He<sup>(s)</sup>, Li Li, Guoai Xu, Zhihui Han,  <strong>Haoyu Wang</strong>
@@ -349,15 +374,7 @@ Guosheng Xu, Yangyu Hu<sup>(s)</sup>, Qian Guo<sup>(s)</sup>, Ren He<sup>(s)</su
 
 
 
-<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
-<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-Ningyu He<sup>(s)</sup>, Lei Wu, <strong>Haoyu Wang*</strong>,  Yao Guo, and Xuxian Jiang.
-<br>
-"Characterizing Code Clones in the Ethereum Smart Contract Ecosystem".
-<br>
-<strong><i>The 24th International Conference on Financial Cryptography and Data Security 2020 (FC'20), acceptance rate = 22% </i>.
-</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
-<br>
+
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
