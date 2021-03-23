@@ -52,7 +52,7 @@ Haoyu Wang, Associate Professor, BUPT
 Short Bio:
 I'm an Associate Professor in the <a href="https://scs.bupt.edu.cn/">School of Computer Science</a>
  at <a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications (BUPT)</a>.
-My research covers a wide range of topics in Software (Program) Analysis, Privacy and Security, eCrime, Internet/System Measurement, and Artificial Intelligence.
+My research covers a wide range of topics in Software (Program) Analysis, Privacy and Security, eCrime, Internet/System Measurement, and AI Security.
 My current research projects are mainly focused on: 1) security, privacy and scam in the mobile app ecosystem; 2) blockchain security; and 3) the intersection of AI and program analysis techniques.
 My research usually targets top-tier Software Engineering Venues (ICSE/FSE/ASE/ISSTA), Security Venues (CCS/NDSS/Oakland/USENIXSec), Web and Measurement Venues (WWW/IMC/SIGMETRICS).
 I received my PhD degree in Computer Science from <a href="http://english.pku.edu.cn/">Peking University</a> in 2016.
@@ -73,17 +73,9 @@ I was a visiting student at <a href="https://www.cmu.edu/">Carnegie Mellon Unive
 
 
 
-<strong>Summary: Full Papers in Top-tier Venues (25), CCF A (22)</strong>
+<strong>Summary: Full Papers in Top-tier Venues (33), CCF A (30), CSRankings (29), Best/Distinguished Paper Award (3) </strong>
 <br> <br>
 
-<!--
-<strong>SE & Security:</strong> CCS*2, ESEC/FSE*3, ASE*5, ISSTA*2, OOPSLA*1, TDSC*1
-<br>
-<br>
-<strong>Mobile, Web & Measurement:</strong> WWW*5,  SIGMETRICS*1, IMC*1, UbiComp*1, TOIS*1
-<br>
-<br>
--->
 
 <i>  * denotes the corresponding author, (s) indicates the student/RA I advised or co-advised, # indicates co-first author </i>
 <br>
@@ -95,16 +87,103 @@ I was a visiting student at <a href="https://www.cmu.edu/">Carnegie Mellon Unive
 <strong> 2021  </strong>
 <hr>
 
+
+
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-Yangyu Hu<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Tiantong Ji, Xusheng Xiao, Xiapu Luo, Peng Gao and Yao Guo.
+Ningyu He<sup>(s)</sup>, Ruiyi Zhang, <strong>Haoyu Wang*</strong>, Lei Wu*, Xiapu Luo, Yao Guo*, Ting Yu, and Xuxian Jiang.
 <br>
-"CHAMP: Characterizing Undesired App Behaviors from User Comments based on Market Policies".
+"EOSafe: Security analysis of EOSIO smart contracts".
 <br>
-<strong><i>ACM SIGMETRICS 2021  (Acceptance Rate: 16%), will be published in ACM POMACS </i>
+<strong><i>The 30th USENIX Security Symposium (USENIX Security 2021)</i>
+
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
+
+
+
+
+
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+Yuhao Gao<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Li Li, Xiapu Luo, Xuanzhe Liu and Guoai Xu.
+<br>
+"Demystifying Illegal Mobile Gambling Apps".
+<br>
+<strong><i>Proceedings of the 30th The Web Conference (WWW 2021),  acceptance rate = 20.6%</i>
 <br>
 </strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
 <br>
+
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+Fuqi Lin<sup>(s)#</sup>, <strong>Haoyu Wang*#</strong>, Liu Wang<sup>(s)</sup> and Xuanzhe Liu*.
+<br>
+"A Longitudinal Study of Removed Apps in iOS App Store".
+<br>
+<strong><i>Proceedings of the 30th The Web Conference (WWW 2021),  acceptance rate = 20.6% </i>
+<br>
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
+
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+Lei Wu, Yufeng Hu, Yajin Zhou*, <strong>Haoyu Wang</strong>, Xiapu Luo, Zhi Wang, Fan Zhang and Kui Ren.
+<br>
+"Towards Understanding and Demystifying Bitcoin Mixing Services".
+<br>
+<strong><i>Proceedings of the 30th The Web Conference (WWW 2021), acceptance rate = 20.6% </i>
+<br>
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
+
+
+
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+Pengcheng Xia<sup>(s)</sup>, Mohamed Nabeel, Issa Khalil, <strong>Haoyu Wang</strong> and Ting Yu.
+<br>
+"Identifying and Characterizing COVID-19 Themed Malicious Domain Campaigns".
+<br>
+<strong><i>The 11th ACM Conference on Data and Application Security and Privacy (CODASPY 2021)</i>
+<br>
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
+
+
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+Yangyu Hu<sup>(s)#</sup>, <strong>Haoyu Wang*#</strong>, Tiantong Ji, Xusheng Xiao, Xiapu Luo, Peng Gao and Yao Guo.
+<br>
+"CHAMP: Characterizing Undesired App Behaviors from User Comments based on Market Policies".
+<br>
+<strong><i>The 43rd ACM/IEEE International Conference on Software Engineering (ICSE 2021)</i>
+<br>
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
+
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+Yuanchun Li, Jiayi Hua<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Chunyang Chen and Yunxin Liu.
+<br>
+"DeepBackdoor: Black-box Backdoor Attack on Deep Learning Models through Neural Payload Injection".
+<br>
+<strong><i>The 43rd ACM/IEEE International Conference on Software Engineering (ICSE 2021)</i>
+<br>
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
+
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+Zhenpeng Chen, Huihan Yao, Yiling Lou, Yanbin Cao, Yuanqiang Liu, <strong>Haoyu Wang</strong>, and Xuanzhe Liu*.
+<br>
+"An Empirical Study on Deployment Faults of Deep Learning Based Mobile Applications".
+<br>
+<strong><i>The 43rd ACM/IEEE International Conference on Software Engineering (ICSE 2021)</i>
+<br>
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
+
 
 
 
@@ -120,6 +199,68 @@ Bingyu Gao<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Pengcheng Xia<sup>(s)</s
 <br>
 
 
+
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+Jiayi Hua<sup>(s)</sup>, Yuanchun Li, <strong>Haoyu Wang</strong>.
+<br>
+"MMGuard: Automatically Protecting On-Device Deep Learning Models in Android Apps".
+<br>
+<strong><i>The 4th Deep Learning and Security Workshop (DLS 2021), Co-located with S&P 2021 </i>
+<br>
+<i style="color:#0000C6"><strong>Open Source Tool: https://github.com/MMGuard123/MMGuard</i>
+<br>
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
+
+
+
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+Jiayi Hua<sup>(s)</sup>, <strong>Haoyu Wang</strong>.
+<br>
+"On the Effectiveness of Deep Vulnerability Detectors to Simple Stupid Bug Detection".
+<br>
+<strong><i>The 2021 Mining Software Repositories Conference (MSR'21), Mining Challenge Track </i>
+<br>
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
+
+
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+Yixue Zhao, Siwei Yin<sup>(s)</sup>, Adriana Sejfia, Marcelo Schmitt Laser, <strong>Haoyu Wang</strong> and Nenad Medvidovic.
+<br>
+"Assessing the Feasibility of Web-Request Prediction Models on Mobile Platforms".
+<br>
+<strong><i>The 8th IEEE/ACM International Conference on Mobile Software Engineering and Systems (MobileSoft'21), co-located with ICSE'21 </i>
+<br>
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
+
+
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+Siming Su<sup>(s)</sup>, <strong>Haoyu Wang</strong> and Guoai Xu.
+<br>
+"Towards Understanding iOS App Store Search Advertising: An Explorative Study".
+<br>
+<strong><i>The 8th IEEE/ACM International Conference on Mobile Software Engineering and Systems (MobileSoft'21), co-located with ICSE'21 </i>
+<br>
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
+
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+Huiyi Wang<sup>(s)</sup>, Liu Wang<sup>(s)</sup> and <strong>Haoyu Wang</strong>.
+<br>
+"Getting Featured Does Not Mean Getting Popular: Characterizing Featured Apps on iOS App Store".
+<br>
+<strong><i>The 8th IEEE/ACM International Conference on Mobile Software Engineering and Systems (MobileSoft'21), co-located with ICSE'21 </i>
+<br>
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
+
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
 Xiao Cheng<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Jiayi Hua<sup>(s)</sup>,  Guoai Xu and Yulei Sui.
@@ -131,6 +272,16 @@ Xiao Cheng<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Jiayi Hua<sup>(s)</sup>,
 </strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
 <br>
 
+<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
+<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
+Yanjie Zhao, Li Li, <strong>Haoyu Wang</strong>, Haipeng Cai, Tegawende F. Bissyande, Jacques Klein, John Grundy.
+<br>
+"On the Impact of Sample Duplication in Machine Learning based Android Malware Detection".
+<br>
+<strong><i>ACM Transactions on Software Engineering and Methodology (TOSEM) </i>
+<br>
+</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
+<br>
 
 <strong> 2020  </strong>
 <hr>
@@ -138,7 +289,7 @@ Xiao Cheng<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Jiayi Hua<sup>(s)</sup>,
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-Yuheng Huang<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Lei Wu, Gareth Tyson, Xiapu Luo, Run Zhang<sup>(s)</sup>, Xuanzhe Liu, Gang Huang and Xuxian Jiang.
+Yuheng Huang<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Lei Wu*, Gareth Tyson, Xiapu Luo, Run Zhang<sup>(s)</sup>, Xuanzhe Liu, Gang Huang and Xuxian Jiang.
 <br>
 "Understanding (Mis)Behavior on the EOSIO Blockchain".
 <br>
@@ -243,16 +394,7 @@ Ren He<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Pengcheng Xia<sup>(s)</sup>,
 <br>
 
 
-<li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
-<span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-Ningyu He<sup>(s)</sup>, Ruiyi Zhang, Lei Wu, <strong>Haoyu Wang*</strong>, Xiapu Luo, Yao Guo*, Ting Yu, and Xuxian Jiang.
-<br>
-"Security analysis of EOSIO smart contracts".
-<br>
-<strong><i>https://arxiv.org/abs/2003.06568</i>
 
-</strong></span></span></span></span></span></span></span></span></span></span></font></div></li>
-<br>
 
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
@@ -298,7 +440,7 @@ Yutian Tang, Yulei Sui, <strong>Haoyu Wang</strong>, Xiapu Luo, Hao Zhou and Zho
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-Zhenpeng Chen, Yanbin Cao, Yuanqiang Liu, <strong>Haoyu Wang</strong>, Tao Xie and Xuanzhe Liu.
+Zhenpeng Chen, Yanbin Cao, Yuanqiang Liu, <strong>Haoyu Wang</strong>, Tao Xie and Xuanzhe Liu*.
 <br>
 "A Comprehensive Study on Challenges in Deploying Deep Learning Based Software".
 <br>
@@ -308,7 +450,7 @@ Zhenpeng Chen, Yanbin Cao, Yuanqiang Liu, <strong>Haoyu Wang</strong>, Tao Xie a
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-Ningyu He<sup>(s)</sup>, Lei Wu, <strong>Haoyu Wang*</strong>,  Yao Guo, and Xuxian Jiang.
+Ningyu He<sup>(s)</sup>, Lei Wu, <strong>Haoyu Wang*</strong>,  Yao Guo*, and Xuxian Jiang.
 <br>
 "Characterizing Code Clones in the Ethereum Smart Contract Ecosystem".
 <br>
@@ -445,7 +587,7 @@ Shengqu Xi, Shao Yang, Xusheng Xiao, Yuan Yao, Yayuan Xiong, Fengyuan Xu, <stron
 
 <li><div style="margin:0cm 0cm 0pt 21pt;line-height:150%"><font face="Times New Roman">
 <span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span lang="EN-US" style="line-height:150%;font-size:12pt"><span><span style="font:7pt/normal &quot;Times New Roman&quot;;font-size-adjust:none;font-stretch:normal"><span lang="EN-US" style="line-height:150%;font-size:12pt">
-Zhuotao Liu, Yangxi Xiang<sup>(s)</sup>, Jian Shi, Peng Gao, <strong>Haoyu Wang*</strong>, Xusheng Xiao, Bihan Wen, Yih-Chun Hu.
+Zhuotao Liu*, Yangxi Xiang<sup>(s)</sup>, Jian Shi, Peng Gao, <strong>Haoyu Wang*</strong>, Xusheng Xiao, Bihan Wen, Yih-Chun Hu.
 <br>
 "HyperService: Interoperability and Programmability across Heterogeneous Blockchains". PDF
 <br>
