@@ -96,7 +96,7 @@
                 <p><strong>Beyond the Virus: A First Look at Coronavirus-themed Android Malware</strong><br>
                   Liu Wang(s)#, Ren He(s)#, Haoyu Wang*, Pengcheng Xia(s), Yuanchun Li, Lei Wu, Yajin Zhou, Xiapu Luo,
                   Yulei Sui, Yao Guo, Guoai Xu.<br>
-                  <em><strong>Empirical Software Engineering</strong></em>
+                  Proceedings of <em><strong>Empirical Software Engineering</strong></em>
                   <a href="papers/COVID_19_Malware.pdf" class="btn btn-primary btn-xs">PDF</a>
                   <a href="https://covid19apps.github.io/" class="btn btn-primary btn-xs">Github</a>
                   <a href="https://zenodo.org/record/3875976#.YH1SCa8zZdg" class="btn btn-primary btn-xs">Zenodo</a>
@@ -241,7 +241,7 @@
                 <p><strong>DeepWukong: Statically Detecting Software Vulnerabilities using Deep Graph Neural
                     Network</strong><br>
                   Xiao Cheng(s), Haoyu Wang*, Jiayi Hua(s), Guoai Xu and Yulei Sui.<br>
-                  <em>ACM Transactions on Software Engineering and Methodology
+                  Proceedings of <em>ACM Transactions on Software Engineering and Methodology
                     <strong>(TOSEM)</strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                 </p>
@@ -250,7 +250,7 @@
                 <p><strong>On the Impact of Sample Duplication in Machine Learning based Android Malware
                     Detection</strong><br>
                   Yanjie Zhao, Li Li, Haoyu Wang, Haipeng Cai, Tegawende F. Bissyande, Jacques Klein, John Grundy.<br>
-                  <em>ACM Transactions on Software Engineering and Methodology
+                  Proceedings of <em>ACM Transactions on Software Engineering and Methodology
                     <strong>(TOSEM)</strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                 </p>
