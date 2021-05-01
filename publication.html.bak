@@ -94,7 +94,7 @@
               <hr>
               <li>
                 <p><strong>Beyond the Virus: A First Look at Coronavirus-themed Android Malware</strong><br>
-                  Liu Wang(s)#, Ren He(s)#, Haoyu Wang*, Pengcheng Xia(s), Yuanchun Li, Lei Wu, Yajin Zhou, Xiapu Luo,
+                  Liu Wang<sup>(s)#</sup>, Ren He<sup>(s)#</sup>, <strong>Haoyu Wang*</strong>, Pengcheng Xia(s), Yuanchun Li, Lei Wu, Yajin Zhou, Xiapu Luo,
                   Yulei Sui, Yao Guo, Guoai Xu.<br>
                   <em><strong>Empirical Software Engineering</strong></em>
                   <a href="papers/COVID_19_Malware.pdf" class="btn btn-primary btn-xs">PDF</a>
@@ -260,6 +260,15 @@
                   Yanjie Zhao, Li Li, Haoyu Wang, Haipeng Cai, Tegawende F. Bissyande, Jacques Klein, John Grundy.<br>
                   <em>ACM Transactions on Software Engineering and Methodology
                     <strong>(TOSEM)</strong></em>
+                  <a href="" class="btn btn-primary btn-xs">PDF</a>
+                </p>
+              </li>
+
+              <li>
+                <p><strong>A Systematical Study on Application Performance Management Libraries for Apps</strong><br>
+                  Yutian Tang, Haoyu Wang, Xian Zhan, Xiapu Luo, Yajin Zhou, Hao Zhou, Qiben Yan, Yulei Sui, Jacky Keung.<br>
+                  <em>IEEE Transactions on Software Engineering
+                    <strong>(TSE)</strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                 </p>
               </li>
