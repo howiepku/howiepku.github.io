@@ -201,7 +201,7 @@
                 <p><strong>SADPonzi: Detecting and Characterizing Ponzi Schemes in Ethereum Smart
                     Contracts</strong><br>
                   Weimin Chen, Xinran Li, Yuting Sui, Ningyu He, <strong>Haoyu Wang*</strong>, Lei Wu, and Xiapu Luo.<br>
-                  Proceedings of <em><strong>ACM SIGMETRICS 2021</strong></em>
+                  <em><strong>ACM SIGMETRICS 2021</strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                 </p>
               </li>
@@ -209,7 +209,7 @@
               <li>
                 <p><strong>Tracking Counterfeit Cryptocurrency End-to-end</strong><br>
                   Bingyu Gao, <strong>Haoyu Wang*</strong>, Pengcheng Xia, Siwei Wu, Yajin Zhou, Xiapu Luo, and Gareth Tyson.<br>
-                  Proceedings of <em><strong>ACM SIGMETRICS 2021</strong> </em>
+                  <em><strong>ACM SIGMETRICS 2021</strong> </em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                 </p>
               </li>
