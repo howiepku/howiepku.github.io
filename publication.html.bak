@@ -92,6 +92,17 @@
               </h5>
               <!-- <ol> -->
               <hr>
+              
+              
+                            <li>
+                <p><strong>SADPonzi: Detecting and Characterizing Ponzi Schemes in Ethereum Smart Contracts</strong><br>
+                  Weimin Chen(s), Xinran Li(s), Yuting Sui(s), Ningyu He(s), <strong>Haoyu Wang*</strong>, Lei Wu, and Xiapu Luo.<br>
+                  <em><strong>ACM SIGMETRICS 2021</strong> (Acceptance Rate: 12%, winter deadline)</em>,
+                  published in <strong>ACM POMACS</strong>
+                  <a href="" class="btn btn-primary btn-xs">PDF</a>
+                  <br>
+                </p>
+              </li>
 
 
               <li>
@@ -119,7 +130,7 @@
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                 </p>
               </li>
-              
+
               <li>
                 <p><strong>CHAMP: Characterizing Undesired App Behaviors from User Comments based on Market
                     Policies</strong><br>
@@ -129,7 +140,7 @@
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                 </p>
               </li>
-              
+
               <li>
                 <p><strong>DeepBackdoor: Black-box Backdoor Attack on Deep Learning Models through Neural Payload
                     Injection</strong><br>
@@ -139,7 +150,7 @@
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                 </p>
               </li>
-              
+
               <li>
                 <p><strong>An Empirical Study on Deployment Faults of Deep Learning Based Mobile
                     Applications</strong><br>
@@ -149,9 +160,9 @@
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                 </p>
               </li>
-                            
 
-              
+
+
               <li>
                 <p><strong>Demystifying Illegal Mobile Gambling Apps</strong><br>
                   Yuhao Gao(s), <strong>Haoyu Wang*</strong>, Li Li, Xiapu Luo, Xuanzhe Liu and Guoai Xu.<br>
@@ -176,6 +187,58 @@
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                 </p>
               </li>
+
+              <li>
+                <p><strong>Beyond the Virus: A First Look at Coronavirus-themed Android Malware</strong><br>
+                  Liu Wang<sup>(s)#</sup>, Ren He<sup>(s)#</sup>, <strong>Haoyu Wang*</strong>, Pengcheng Xia(s), Yuanchun Li, Lei Wu, Yajin Zhou, Xiapu Luo,
+                  Yulei Sui, Yao Guo, Guoai Xu.<br>
+                  <em><strong>Empirical Software Engineering</strong></em>
+                  <a href="papers/COVID_19_Malware.pdf" class="btn btn-primary btn-xs">PDF</a>
+                  <a href="https://covid19apps.github.io/" class="btn btn-primary btn-xs">Github</a>
+                  <a href="https://zenodo.org/record/3875976#.YH1SCa8zZdg" class="btn btn-primary btn-xs">Zenodo</a>
+                </p>
+              </li>
+
+              <li>
+                <p><strong>DeepWukong: Statically Detecting Software Vulnerabilities using Deep Graph Neural
+                    Network</strong><br>
+                  Xiao Cheng(s), <strong>Haoyu Wang*</strong>, Jiayi Hua(s), Guoai Xu and Yulei Sui.<br>
+                  <em>ACM Transactions on Software Engineering and Methodology
+                    <strong>(TOSEM)</strong></em>
+                  <a href="" class="btn btn-primary btn-xs">PDF</a>
+                </p>
+              </li>
+              <li>
+                <p><strong>On the Impact of Sample Duplication in Machine Learning based Android Malware
+                    Detection</strong><br>
+                  Yanjie Zhao, Li Li, <strong>Haoyu Wang</strong>, Haipeng Cai, Tegawende F. Bissyande, Jacques Klein, John Grundy.<br>
+                  <em>ACM Transactions on Software Engineering and Methodology
+                    <strong>(TOSEM)</strong></em>
+                  <a href="" class="btn btn-primary btn-xs">PDF</a>
+                </p>
+              </li>
+
+              <li>
+                <p><strong>A Systematical Study on Application Performance Management Libraries for Apps</strong><br>
+                  Yutian Tang, <strong>Haoyu Wang</strong>, Xian Zhan, Xiapu Luo, Yajin Zhou, Hao Zhou, Qiben Yan, Yulei Sui, Jacky Keung.<br>
+                  <em>IEEE Transactions on Software Engineering
+                    <strong>(TSE)</strong></em>
+                  <a href="" class="btn btn-primary btn-xs">PDF</a>
+                </p>
+              </li>
+
+              <li>
+                <p><strong>Make Web3.0 Connected</strong><br>
+                  Zhuotao Liu, Yangxi Xiang(s), Jian Shi, Peng Gao, <strong>Haoyu Wang</strong>, Xusheng Xiao, Bihan Wen, Qi Li, Yih-Chun
+                  Hu.<br>
+                  <em>IEEE Transactions on Dependable and Secure Computing
+                    <strong>(TDSC)</strong></em>
+                  <a href="" class="btn btn-primary btn-xs">PDF</a>
+                </p>
+              </li>
+
+
+
               <li>
                 <p><strong>Identifying and Characterizing COVID-19 Themed Malicious Domain Campaigns</strong><br>
                   Pengcheng Xia(s), Mohamed Nabeel, Issa Khalil, <strong>Haoyu Wang</strong> and Ting Yu.<br>
@@ -243,56 +306,9 @@
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                 </p>
               </li>
-              
 
-              <li>
-                <p><strong>Beyond the Virus: A First Look at Coronavirus-themed Android Malware</strong><br>
-                  Liu Wang<sup>(s)#</sup>, Ren He<sup>(s)#</sup>, <strong>Haoyu Wang*</strong>, Pengcheng Xia(s), Yuanchun Li, Lei Wu, Yajin Zhou, Xiapu Luo,
-                  Yulei Sui, Yao Guo, Guoai Xu.<br>
-                  <em><strong>Empirical Software Engineering</strong></em>
-                  <a href="papers/COVID_19_Malware.pdf" class="btn btn-primary btn-xs">PDF</a>
-                  <a href="https://covid19apps.github.io/" class="btn btn-primary btn-xs">Github</a>
-                  <a href="https://zenodo.org/record/3875976#.YH1SCa8zZdg" class="btn btn-primary btn-xs">Zenodo</a>
-                </p>
-              </li>
 
-              <li>
-                <p><strong>DeepWukong: Statically Detecting Software Vulnerabilities using Deep Graph Neural
-                    Network</strong><br>
-                  Xiao Cheng(s), <strong>Haoyu Wang*</strong>, Jiayi Hua(s), Guoai Xu and Yulei Sui.<br>
-                  <em>ACM Transactions on Software Engineering and Methodology
-                    <strong>(TOSEM)</strong></em>
-                  <a href="" class="btn btn-primary btn-xs">PDF</a>
-                </p>
-              </li>
-              <li>
-                <p><strong>On the Impact of Sample Duplication in Machine Learning based Android Malware
-                    Detection</strong><br>
-                  Yanjie Zhao, Li Li, <strong>Haoyu Wang</strong>, Haipeng Cai, Tegawende F. Bissyande, Jacques Klein, John Grundy.<br>
-                  <em>ACM Transactions on Software Engineering and Methodology
-                    <strong>(TOSEM)</strong></em>
-                  <a href="" class="btn btn-primary btn-xs">PDF</a>
-                </p>
-              </li>
 
-              <li>
-                <p><strong>A Systematical Study on Application Performance Management Libraries for Apps</strong><br>
-                  Yutian Tang, <strong>Haoyu Wang</strong>, Xian Zhan, Xiapu Luo, Yajin Zhou, Hao Zhou, Qiben Yan, Yulei Sui, Jacky Keung.<br>
-                  <em>IEEE Transactions on Software Engineering
-                    <strong>(TSE)</strong></em>
-                  <a href="" class="btn btn-primary btn-xs">PDF</a>
-                </p>
-              </li>
-
-              <li>
-                <p><strong>Make Web3.0 Connected</strong><br>
-                  Zhuotao Liu, Yangxi Xiang(s), Jian Shi, Peng Gao, <strong>Haoyu Wang</strong>, Xusheng Xiao, Bihan Wen, Qi Li, Yih-Chun
-                  Hu.<br>
-                  <em>IEEE Transactions on Dependable and Secure Computing
-                    <strong>(TDSC)</strong></em>
-                  <a href="" class="btn btn-primary btn-xs">PDF</a>
-                </p>
-              </li>
               <!-- </ol> -->
 
               <br>
