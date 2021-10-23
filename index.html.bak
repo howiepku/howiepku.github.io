@@ -131,10 +131,7 @@
         <div class="col-xs-9  border-left">
           <div class="bs-component">
             <h3></h3>
-            
-            <p> <b>I will join Huazhong University of Science and Technology (HUST) as a Full Professor. </b> 
-            <br>
-            ----------------------------------------------------------------------------------------------------------------------------
+
 
             <p>I am an Associate Professor in the <a href="https://scs.bupt.edu.cn/">School of Computer Science</a> at
               <a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications (BUPT)</a>. I am
@@ -145,11 +142,11 @@
 
             <p>My recent research projects are mainly focused on: <br>
               1) <b>Security, privacy and underground market in the mobile app ecosystem</b> (WWW 2021, ICSE 2021); <br>
-              2) <b>Fintech & Blockchain Security </b> (USENIX SEC 2021, SIGMETRICS 2021*2); <br>
+              2) <b>Fintech & Blockchain Security </b> (SIGMETRICS 2022, USENIX SEC 2021, SIGMETRICS 2021*2); <br>
               3) <b>The intersection of AI and program analysis techniques</b> (TOSEM 2021, OOPSLA 2020).<br>
 
             <p>
-              I have published over 80 peer-reviewed papers, including 37 full papers published in top-tier venues (33 CCF-A Papers, and 31 CSRankings Papers).
+              I have published over 80 peer-reviewed papers, including 41 full papers published in top-tier venues (35 CCF-A Papers, and 33 CSRankings Papers).
               My research usually targets top-tier Software Engineering Venues (ICSE/FSE/ASE/ISSTA), Security Venues
               (CCS/NDSS/Oakland/USENIXSec), Web and Measurement Venues (WWW/IMC/SIGMETRICS). I have been awarded three
               best/distinguished paper awards, including <b>WWW 2020 Best Student Paper Award</b> (the first award in
@@ -193,6 +190,15 @@
            <hr>
 
               <li>
+                <p><strong>Trade or Trick? Detecting and Characterizing Scam Tokens on Uniswap Decentralized Exchange</strong><br>
+                  Pengcheng Xia(s),<strong>Haoyu Wang*</strong>, Bingyu Gao(s), Weihang Su(s), Zhou Yu(s), Xiapu Luo, Chao Zhang, Xusheng Xiao, Guoai Xu<br>
+                  <em><strong>ACM SIGMETRICS 2022 </strong></em>
+                  <a href="" class="btn btn-primary btn-xs">PDF</a>
+                  <br>
+                </p>
+              </li>
+
+              <li>
                 <p><strong>EOSafe: Security analysis of EOSIO smart contracts</strong><br>
                   Ningyu He, Ruiyi Zhang, <strong>Haoyu Wang*</strong>, Lei Wu*, Xiapu Luo, Yao Guo*, Ting Yu, and Xuxian Jiang.<br>
                   Proceedings of <em>the 30th USENIX Security Symposium <strong>(USENIX Security
@@ -210,13 +216,6 @@
                 </p>
               </li>
 
-              <li>
-                <p><strong>Tracking Counterfeit Cryptocurrency End-to-end</strong><br>
-                  Bingyu Gao, <strong>Haoyu Wang*</strong>, Pengcheng Xia, Siwei Wu, Yajin Zhou, Xiapu Luo, and Gareth Tyson.<br>
-                  <em><strong>ACM SIGMETRICS 2021</strong> </em>
-                  <a href="" class="btn btn-primary btn-xs">PDF</a>
-                </p>
-              </li>
 
               <br>
               <br>
