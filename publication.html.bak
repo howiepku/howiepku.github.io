@@ -111,6 +111,24 @@
                   <br>
                 </p>
               </li>
+              
+              <li>
+                <p><strong>DescribeCtx: Context-Aware Description Synthesis for Sensitive Behaviors in Mobile Apps</strong><br>
+                  Shao Yang, Yuehan Wang, Yuan Yao, <strong>Haoyu Wang</strong>, Yanfang Ye, Xusheng Xiao<br>
+                  <em><strong>The 44th International Conference on Software Engineering (ICSE 2022)</strong></em>
+                  <a href="" class="btn btn-primary btn-xs">PDF</a>
+                  <br>
+                </p>
+              </li>
+              
+              <li>
+                <p><strong>Uncovering Cross-Context Inconsistent Access Control Enforcement in Android</strong><br>
+                  Hao Zhou, <strong>Haoyu Wang</strong>, Xiapu Luo, Ting Chen, Yajin Zhou, Ting Wang<br>
+                  <em><strong>The Network and Distributed System Security Symposium (NDSS 2022) </strong></em>
+                  <a href="" class="btn btn-primary btn-xs">PDF</a>
+                  <br>
+                </p>
+              </li>
 
 
               <br>
@@ -245,7 +263,7 @@
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                 </p>
               </li>
-              
+
               <li>
                 <p><strong>XDebloat: Towards Automated Feature-Oriented App Debloating</strong><br>
                   Yutian Tang, Hao Zhou, Xiapu Luo, Ting Chen, <strong>Haoyu Wang</strong>, Zhou Xu, and Yan Cai<br>
@@ -284,7 +302,6 @@
               </li>
 
 
-
               <li>
                 <p><strong>Identifying and Characterizing COVID-19 Themed Malicious Domain Campaigns</strong><br>
                   Pengcheng Xia(s), Mohamed Nabeel, Issa Khalil, <strong>Haoyu Wang</strong> and Ting Yu.<br>
@@ -312,6 +329,7 @@
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                 </p>
               </li>
+
               <li>
                 <p><strong>Towards A First Step to Understand Flash Loan and Its Applications in DeFi
                     Ecosystem</strong><br>
@@ -321,6 +339,7 @@
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                 </p>
               </li>
+
               <li>
                 <p><strong>Assessing the Feasibility of Web-Request Prediction Models on Mobile Platforms</strong><br>
                   Yixue Zhao, Siwei Yin(s), Adriana Sejfia, Marcelo Schmitt Laser, <strong>Haoyu Wang</strong> and Nenad Medvidovic.<br>
@@ -328,6 +347,7 @@
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                 </p>
               </li>
+
               <li>
                 <p><strong>Towards Understanding iOS App Store Search Advertising: An Explorative Study</strong><br>
                   Siming Su(s), <strong>Haoyu Wang*</strong> and Guoai Xu.<br>
@@ -346,9 +366,8 @@
 
               <li>
                 <p><strong>Understanding the Impact of COVID-19 on Github Developers: A Preliminary Study</strong><br>
-                  Liu Wang(s), Ruiqing Li, Jiaxin Zhu, Guangdong Bai, Weihang Su and <strong>Haoyu Wang*</strong>.<br>
+                  Liu Wang(s), Ruiqing Li, Jiaxin Zhu, Guangdong Bai, Weihang Su(s) and <strong>Haoyu Wang*</strong>.<br>
                   <em>The 33rd International Conference on Software Engineering & Knowledge Engineering <strong>(SEKE'21)</strong></em>
-
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                 </p>
               </li>
