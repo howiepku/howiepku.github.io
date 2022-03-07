@@ -80,11 +80,11 @@
         <div class="col-xs-12">
           <div class="bs-component">
             <h2></h2>
-            <p class="text-success"><strong><big>Summary: Full Papers in Top-tier Venues (41), CCF A (35), CSRankings
-                  (33), Best/Distinguished Paper Award (3)</big></strong></p>
+            <p class="text-success"><strong><big>Summary: Full Papers in Top-tier Venues (45), CCF A (39), CSRankings
+                  (36), Best/Distinguished Paper Award (3)</big></strong></p>
             <p>
-            <p class="text-warning"><strong>* denotes the corresponding author, (s) indicates the student/RA I advised
-                or co-advised, # indicates co-first author</strong></p>
+            <p class="text-warning"><strong>* the corresponding author, (s) the student/group member I advised
+                or co-advised during the work, # co-first authors</strong></p>
 
             <ol>
               <h5>
@@ -93,6 +93,31 @@
               <!-- <ol> -->
               <hr>
 
+              <li>
+                <p><strong> Lie to Me: Abusing the Mobile Content Sharing Service for Fun and Profit</strong><br>
+                  Guosheng Xu(s), Siyi Li(s), Hao Zhou, Shucen Liu, Yutian Tang, Li Li, Xiapu Luo, Xusheng Xiao, Guoai Xu and <strong>Haoyu Wang*</strong><br>
+                  <em><strong>The ACM Web Conference 2022 (WWW '22)</strong></em>
+                  <a href="" class="btn btn-primary btn-xs">PDF</a>
+                  <br>
+                </p>
+              </li>
+
+              <li>
+                <p><strong> APIMatchmaker: Matching the Right APIs for Supporting the Development of Android Apps </strong><br>
+                  Yanjie Zhao, Li Li, <strong>Haoyu Wang</strong>, Qiang He, John Grundy<br>
+                  <em><strong>IEEE Transactions on Software Engineering (TSE)</strong></em>
+                  <a href="" class="btn btn-primary btn-xs">PDF</a>
+                  <br>
+                </p>
+              </li>
+
+              <br>
+              <p><strong> ===================================================================================================	</strong>
+
+              <p><strong> &#8593;	&#8593;	&#8593;	&#8593;	&#8593; Publications After Joining HUST	&#8593;	&#8593;	&#8593;	&#8593;	&#8593;	</strong>
+              <br>
+
+              <p><strong> ===================================================================================================	</strong>
 
               <li>
                 <p><strong>Trade or Trick? Detecting and Characterizing Scam Tokens on Uniswap Decentralized Exchange</strong><br>
@@ -111,7 +136,7 @@
                   <br>
                 </p>
               </li>
-              
+
               <li>
                 <p><strong>DescribeCtx: Context-Aware Description Synthesis for Sensitive Behaviors in Mobile Apps</strong><br>
                   Shao Yang, Yuehan Wang, Yuan Yao, <strong>Haoyu Wang</strong>, Yanfang Ye, Xusheng Xiao<br>
@@ -120,11 +145,11 @@
                   <br>
                 </p>
               </li>
-              
+
               <li>
-                <p><strong>Uncovering Cross-Context Inconsistent Access Control Enforcement in Android</strong><br>
-                  Hao Zhou, <strong>Haoyu Wang</strong>, Xiapu Luo, Ting Chen, Yajin Zhou, Ting Wang<br>
-                  <em><strong>The Network and Distributed System Security Symposium (NDSS 2022) </strong></em>
+                <p><strong>Promal: Precise Window Transition Graphs for Android via Synergy of Program Analysis and Machine Learning</strong><br>
+                 Changlin Liu, Hanlin Wang, Tianming Liu(s), Diandian Gu, Yun Ma, <strong>Haoyu Wang</strong>, Xusheng Xiao<br>
+                  <em><strong>The 44th International Conference on Software Engineering (ICSE 2022) </strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                   <br>
                 </p>
