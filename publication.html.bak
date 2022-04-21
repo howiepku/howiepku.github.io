@@ -93,20 +93,19 @@
               <!-- <ol> -->
               <hr>
 
-
-              <li>
-                <p><strong> WASAI: Uncovering Vulnerabilities in Wasm Smart Contracts </strong><br>
-                 Weimin Chen(s), Zihan Sun(s), <strong>Haoyu Wang</strong>, Xiapu Luo, Haipeng Cai, Lei Wu<br>
-                  <em><strong>The 31st ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA '22), Conditional Accept</strong></em>
-                  <a href="" class="btn btn-primary btn-xs">PDF</a>
-                  <br>
-                </p>
-              </li>
-
               <li>
                 <p><strong> Path-Sensitive Code Embedding via Contrastive Learning for Software Vulnerability Detection </strong><br>
                  Xiao Cheng, Guanqin Zhang, <strong>Haoyu Wang</strong>, Yulei Sui<br>
                   <em><strong>The 31st ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA '22)</strong></em>
+                  <a href="" class="btn btn-primary btn-xs">PDF</a>
+                  <br>
+                </p>
+              </li>
+              
+              <li>
+                <p><strong> WASAI: Uncovering Vulnerabilities in Wasm Smart Contracts </strong><br>
+                 Weimin Chen(s), Zihan Sun(s), <strong>Haoyu Wang</strong>, Xiapu Luo, Haipeng Cai, Lei Wu<br>
+                  <em><strong>The 31st ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA '22), Conditional Accept</strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                   <br>
                 </p>
