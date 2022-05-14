@@ -94,6 +94,15 @@
               <hr>
 
               <li>
+                <p><strong> MalRadar: Demystifying Android Malware in the New Era</strong><br>
+                  Liu Wang(s), <strong>Haoyu Wang*</strong>, Ren He(s), Ran Tao(s), Guozhu Meng, Xiapu Luo, Xuanzhe Liu<br>
+                  <em><strong>ACM SIGMETRICS 2022 (Acceptance Rate = 11%, Winter Deadline) </strong></em>
+                  <a href="" class="btn btn-primary btn-xs">PDF</a>
+                  <br>
+                </p>
+              </li>
+
+              <li>
                 <p><strong> Path-Sensitive Code Embedding via Contrastive Learning for Software Vulnerability Detection </strong><br>
                  Xiao Cheng, Guanqin Zhang, <strong>Haoyu Wang</strong>, Yulei Sui<br>
                   <em><strong>The 31st ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA '22)</strong></em>
@@ -101,7 +110,7 @@
                   <br>
                 </p>
               </li>
-              
+
               <li>
                 <p><strong> WASAI: Uncovering Vulnerabilities in Wasm Smart Contracts </strong><br>
                  Weimin Chen(s), Zihan Sun(s), <strong>Haoyu Wang</strong>, Xiapu Luo, Haipeng Cai, Lei Wu<br>
@@ -111,14 +120,6 @@
                 </p>
               </li>
 
-              <li>
-                <p><strong> MalRadar: Demystifying Android Malware in the New Era</strong><br>
-                  Liu Wang(s), <strong>Haoyu Wang*</strong>, Ren He(s), Ran Tao(s), Guozhu Meng, Xiapu Luo, Xuanzhe Liu<br>
-                  <em><strong>ACM SIGMETRICS 2022 (Acceptance Rate = 11%, Winter Deadline) </strong></em>
-                  <a href="" class="btn btn-primary btn-xs">PDF</a>
-                  <br>
-                </p>
-              </li>
 
               <li>
                 <p><strong> A Tale of Two Countries: A Longitudinal Cross-Country Study of  Mobile Users' Reactions to the COVID-19 Pandemic Through the Lens of  App Popularity</strong><br>
@@ -133,6 +134,15 @@
                 <p><strong> Lie to Me: Abusing the Mobile Content Sharing Service for Fun and Profit</strong><br>
                   Guosheng Xu(s), Siyi Li(s), Hao Zhou, Shucen Liu, Yutian Tang, Li Li, Xiapu Luo, Xusheng Xiao, Guoai Xu and <strong>Haoyu Wang*</strong><br>
                   <em><strong>The ACM Web Conference 2022 (WWW '22)</strong></em>
+                  <a href="" class="btn btn-primary btn-xs">PDF</a>
+                  <br>
+                </p>
+              </li>
+              
+              <li>
+                <p><strong> Towards Automatically Localizing Function Errors in Mobile Apps with User Reviews </strong><br>
+                  Le Yu, <strong>Haoyu Wang</strong>, Xiapu Luo, Tao Zhang, Kang Liu, Jiachi Chen, Hao Zhou, Yutian Tang, Xusheng Xiao<br>
+                  <em><strong>IEEE Transactions on Software Engineering (TSE)</strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                   <br>
                 </p>

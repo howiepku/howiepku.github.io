@@ -154,10 +154,10 @@
             <p>My recent research projects are mainly focused on: <br>
               1) <b>Security, privacy and underground market in the mobile app ecosystem</b> (NDSS 2022, ICSE 2021); <br>
               2) <b>Fintech & Blockchain Security </b> (SIGMETRICS 2022, USENIX SEC 2021, SIGMETRICS 2021*2); <br>
-              3) <b>The intersection of AI and program analysis techniques</b> (TOSEM 2021, OOPSLA 2020).<br>
+              3) <b>The intersection of AI and program analysis techniques</b> (ISSTA 2022, TOSEM 2021, OOPSLA 2020).<br>
 
             <p>
-              I have published over 90 peer-reviewed papers, including 48 full papers published in top-tier venues (39 CCF-A Papers, and 37 CSRankings Papers).
+              I have published over 90 peer-reviewed papers, including 48 full papers published in top-tier venues (41 CCF-A Papers, and 39 CSRankings Papers).
               My research usually targets top-tier Software Engineering Venues (ICSE/FSE/ASE/ISSTA), Security Venues
               (CCS/NDSS/Oakland/USENIXSec), Web and Measurement Venues (WWW/IMC/SIGMETRICS). I have been awarded three
               best/distinguished paper awards, including <b>WWW 2020 Best Student Paper Award</b> (the first award from
@@ -224,6 +224,15 @@
               <br>
               <h4><em><strong>Mobile Security, Mobile App Ecosystem Analysis</strong></em></h4>
               <hr>
+              
+              <li>
+                <p><strong> MalRadar: Demystifying Android Malware in the New Era</strong><br>
+                  Liu Wang(s), <strong>Haoyu Wang*</strong>, Ren He(s), Ran Tao(s), Guozhu Meng, Xiapu Luo, Xuanzhe Liu<br>
+                  <em><strong>ACM SIGMETRICS 2022 </strong></em>
+                  <a href="" class="btn btn-primary btn-xs">PDF</a>
+                  <br>
+                </p>
+              </li>
 
               <li>
                 <p><strong>Uncovering Cross-Context Inconsistent Access Control Enforcement in Android</strong><br>
@@ -231,16 +240,6 @@
                   <em><strong>The Network and Distributed System Security Symposium (NDSS 2022) </strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                   <br>
-                </p>
-              </li>
-
-              <li>
-                <p><strong>CHAMP: Characterizing Undesired App Behaviors from User Comments based on Market
-                    Policies</strong><br>
-                  Yangyu Hu(s), <strong>Haoyu Wang*</strong>, Tiantong Ji, Xusheng Xiao, Xiapu Luo, Peng Gao and Yao Guo.<br>
-                  Proceedings of <em>the 43rd ACM/IEEE International Conference on Software Engineering <strong>(ICSE
-                      2021)</strong></em>
-                  <a href="" class="btn btn-primary btn-xs">PDF</a>
                 </p>
               </li>
 
@@ -259,7 +258,15 @@
               <br>
               <h4><em><strong>AI Security, AI + Program Analysis</strong></em></h4>
               <hr>
-
+              
+              <li>
+                <p><strong> Path-Sensitive Code Embedding via Contrastive Learning for Software Vulnerability Detection </strong><br>
+                 Xiao Cheng, Guanqin Zhang, <strong>Haoyu Wang</strong>, Yulei Sui<br>
+                  <em><strong>The 31st ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA '22)</strong></em>
+                  <a href="" class="btn btn-primary btn-xs">PDF</a>
+                  <br>
+                </p>
+              </li>
 
               <li>
                 <p><strong>DeepWukong: Statically Detecting Software Vulnerabilities using Deep Graph Neural
@@ -279,15 +286,6 @@
                   Proceedings of <em>the 43rd ACM/IEEE International Conference on Software Engineering <strong>(ICSE
                       2021)</strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
-                </p>
-              </li>
-
-              <li>
-                <p><strong>Flow2Vec: Value-Flow-Based Precise Code Embedding</strong><br>
-                  Yulei Sui, Xiao Cheng(s), Guanqin Zhang, and <strong>Haoyu Wang<strong>.<br>
-                  Proceedings of <em><strong>ACM OOPSLA 2020</strong></em>
-                  <a href="" class="btn btn-primary btn-xs">PDF</a>
-                  <span class="label label-success">ACM SIGPLAN Distinguished Paper AWARD</span>
                 </p>
               </li>
 
