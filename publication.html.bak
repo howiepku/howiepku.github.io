@@ -102,6 +102,16 @@
                 </p>
               </li>
 
+
+              <li>
+                <p><strong> MalRadar: Demystifying Android Malware in the New Era</strong><br>
+                  Liu Wang(s), <strong>Haoyu Wang*</strong>, Ren He(s), Ran Tao(s), Guozhu Meng, Xiapu Luo, Xuanzhe Liu<br>
+                  <em><strong>ACM SIGMETRICS 2022 (Acceptance Rate = 11%, Winter Deadline) </strong></em>
+                  <a href="" class="btn btn-primary btn-xs">PDF</a>
+                  <br>
+                </p>
+              </li>
+
               <li>
                 <p><strong> Path-Sensitive Code Embedding via Contrastive Learning for Software Vulnerability Detection </strong><br>
                  Xiao Cheng, Guanqin Zhang, <strong>Haoyu Wang</strong>, Yulei Sui<br>
@@ -139,14 +149,6 @@
                 </p>
               </li>
 
-              <li>
-                <p><strong> Towards Automatically Localizing Function Errors in Mobile Apps with User Reviews </strong><br>
-                  Le Yu, <strong>Haoyu Wang</strong>, Xiapu Luo, Tao Zhang, Kang Liu, Jiachi Chen, Hao Zhou, Yutian Tang, Xusheng Xiao<br>
-                  <em><strong>IEEE Transactions on Software Engineering (TSE)</strong></em>
-                  <a href="" class="btn btn-primary btn-xs">PDF</a>
-                  <br>
-                </p>
-              </li>
 
               <li>
                 <p><strong> APIMatchmaker: Matching the Right APIs for Supporting the Development of Android Apps </strong><br>
@@ -164,6 +166,7 @@
               <br>
 
               <p><strong> ===================================================================================================	</strong>
+
 
               <li>
                 <p><strong>Trade or Trick? Detecting and Characterizing Scam Tokens on Uniswap Decentralized Exchange</strong><br>
@@ -196,6 +199,24 @@
                 <p><strong>Promal: Precise Window Transition Graphs for Android via Synergy of Program Analysis and Machine Learning</strong><br>
                  Changlin Liu, Hanlin Wang, Tianming Liu(s), Diandian Gu, Yun Ma, <strong>Haoyu Wang</strong>, Xusheng Xiao<br>
                   <em><strong>The 44th International Conference on Software Engineering (ICSE 2022) </strong></em>
+                  <a href="" class="btn btn-primary btn-xs">PDF</a>
+                  <br>
+                </p>
+              </li>
+
+              <li>
+                <p><strong> Towards Automatically Localizing Function Errors in Mobile Apps with User Reviews </strong><br>
+                  Le Yu, <strong>Haoyu Wang</strong>, Xiapu Luo, Tao Zhang, Kang Liu, Jiachi Chen, Hao Zhou, Yutian Tang, Xusheng Xiao<br>
+                  <em><strong>IEEE Transactions on Software Engineering (TSE)</strong></em>
+                  <a href="" class="btn btn-primary btn-xs">PDF</a>
+                  <br>
+                </p>
+              </li>
+
+              <li>
+                <p><strong> BATscope: Demystifying Malicious Addresses and Mixing Transactions in Bitcoin (In Chinese)</strong><br>
+                  WONG Taiyu, YIN Tingting, LI Yun, QIN Siliang, REN Xin, LUO Xiapu, <strong>WANG Haoyu</strong>, YIN Xia, ZHANG Chao<br>
+                  <em><strong>Journal of Cyber Security</strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                   <br>
                 </p>
