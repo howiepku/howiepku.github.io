@@ -80,8 +80,8 @@
         <div class="col-xs-12">
           <div class="bs-component">
             <h2></h2>
-            <p class="text-success"><strong><big>Summary: Full Papers in Top-tier Venues (56), CCF A (48), CSRankings
-                  (45), Best/Distinguished Paper Award (3)</big></strong></p>
+            <p class="text-success"><strong><big>Summary: Full Papers in Top-tier Venues (57), CCF A (49), CSRankings
+                  (46), Best/Distinguished Paper Award (3)</big></strong></p>
             <p>
             <p class="text-warning"><strong>* the corresponding author, (s) the student/group member I advised
                 or co-advised during the work, # co-first authors</strong></p>
@@ -120,16 +120,16 @@
               <li>
                 <p><strong> MalWhiteout: Reducing Label Errors in Android Malware Detection </strong><br>
                   Liu Wang(s), <strong>Haoyu Wang*</strong>, Xiapu Luo, and Yulei Sui<br>
-                  <em><strong>ASE 2022 </strong></em>
+                  <em><strong>The 37th IEEE/ACM International Conference on Automated Software Engineering (ASE 2022) </strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                   <br>
                 </p>
               </li>
               
               <li>
-                <p><strong> MalWhiteout: Reducing Label Errors in Android Malware Detection </strong><br>
-                  Liu Wang(s), <strong>Haoyu Wang*</strong>, Xiapu Luo, and Yulei Sui<br>
-                  <em><strong>ASE 2022 </strong></em>
+                <p><strong> Are they Toeing the Line? Auditing Privacy Compliance among Browser Extensions </strong><br>
+                  Yuxi Ling, Kailong Wang, Guangdong Bai, <strong>Haoyu Wang</strong>, and Jin Song Dong<br>
+                  <em><strong>The 37th IEEE/ACM International Conference on Automated Software Engineering (ASE 2022) </strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                   <br>
                 </p>
