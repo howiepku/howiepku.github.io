@@ -83,7 +83,7 @@
             <p class="text-success"><strong><big>Summary: Full Papers in Top-tier Venues (57), CCF A (49), CSRankings
                   (46), Best/Distinguished Paper Award (3)</big></strong></p>
             <p>
-            <p class="text-warning"><strong>* the corresponding author, (s) the student/group member I advised
+            <p class="text-warning"><strong>* the corresponding author, <sup>(s)</sup> the student/group member I advised
                 or co-advised during the work, # co-first authors</strong></p>
 
 
@@ -100,7 +100,7 @@
 
               <li>
                 <p><strong> DISTDET: A Cost-Effective Distributed Cyber Threat Detection System </strong><br>
-                  Feng Dong(s), Liu Wang(s), Xu Nie(s), Fei Shao, <strong>Haoyu Wang*</strong>, Ding Li, Xiapu Luo and Xusheng Xiao <br>
+                  Feng Dong<sup>(s)</sup>, Liu Wang<sup>(s)</sup>, Xu Nie<sup>(s)</sup>, Fei Shao, <strong>Haoyu Wang*</strong>, Ding Li, Xiapu Luo and Xusheng Xiao <br>
                   <em><strong>USENIX Security 2023 </strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                   <br>
@@ -119,7 +119,7 @@
 
               <li>
                 <p><strong> Challenges in Decentralized Name Management: The Case of ENS </strong><br>
-                  Pengcheng Xia(s), <strong>Haoyu Wang*</strong>, Zhou Yu(s), Xinyu Liu(s), Xiapu Luo, Guoai Xu, and Gareth Tyson <br>
+                  Pengcheng Xia<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Zhou Yu<sup>(s)</sup>, Xinyu Liu<sup>(s)</sup>, Xiapu Luo, Guoai Xu, and Gareth Tyson <br>
                   <em><strong>The 2022 ACM Internet Measurement Conference (IMC'22) </strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                   <br>
@@ -128,7 +128,7 @@
 
               <li>
                 <p><strong> MalWhiteout: Reducing Label Errors in Android Malware Detection </strong><br>
-                  Liu Wang(s), <strong>Haoyu Wang*</strong>, Xiapu Luo, and Yulei Sui<br>
+                  Liu Wang<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Xiapu Luo, and Yulei Sui<br>
                   <em><strong>The 37th IEEE/ACM International Conference on Automated Software Engineering (ASE 2022) </strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                   <br>
@@ -143,12 +143,21 @@
                   <br>
                 </p>
               </li>
+              
+              <li>
+                <p><strong> Privacy Analysis of Period Tracking Mobile Apps in the Post-Roe v. Wade Era </strong><br>
+                  Zikan Dong, Liu Wang, Hao Xie, Guoai Xu and <strong>Haoyu Wang</strong><br>
+                  <em><strong>The 37th IEEE/ACM International Conference on Automated Software Engineering (ASE 2022) </strong></em>
+                  <a href="" class="btn btn-primary btn-xs">PDF</a>
+                  <br>
+                </p>
+              </li>
 
 
 
               <li>
                 <p><strong> What Did You Pack in My App? A Systematic Analysis of Commercial Android Packers </strong><br>
-                  Zikan Dong(s), Hongxuan Liu(s), Liu Wang(s), Xiapu Luo, Yao Guo,Guoai Xu, Xusheng Xiao, and <strong>Haoyu Wang*</strong><br>
+                  Zikan Dong<sup>(s)</sup>, Hongxuan Liu<sup>(s)</sup>, Liu Wang<sup>(s)</sup>, Xiapu Luo, Yao Guo,Guoai Xu, Xusheng Xiao, and <strong>Haoyu Wang*</strong><br>
                   <em><strong>ESEC/FSE 2022 (Industry Track) </strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                   <br>
@@ -157,7 +166,7 @@
 
               <li>
                 <p><strong> Demystifying "Removed Reviews" in iOS App Store </strong><br>
-                  Liu Wang(s), <strong>Haoyu Wang*</strong>, Xiapu Luo, Tao Zhang, Shangguang Wang, and Xuanzhe Liu<br>
+                  Liu Wang<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Xiapu Luo, Tao Zhang, Shangguang Wang, and Xuanzhe Liu<br>
                   <em><strong>ESEC/FSE 2022 (Industry Track) </strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                   <br>
@@ -176,7 +185,7 @@
 
               <li>
                 <p><strong> MalRadar: Demystifying Android Malware in the New Era</strong><br>
-                  Liu Wang(s), <strong>Haoyu Wang*</strong>, Ren He(s), Ran Tao(s), Guozhu Meng, Xiapu Luo, Xuanzhe Liu<br>
+                  Liu Wang<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Ren He<sup>(s)</sup>, Ran Tao<sup>(s)</sup>, Guozhu Meng, Xiapu Luo, Xuanzhe Liu<br>
                   <em><strong>ACM SIGMETRICS 2022 (Acceptance Rate = 11%, Winter Deadline) </strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                   <br>
@@ -194,7 +203,7 @@
 
               <li>
                 <p><strong> WASAI: Uncovering Vulnerabilities in Wasm Smart Contracts </strong><br>
-                 Weimin Chen(s), Zihan Sun(s), <strong>Haoyu Wang*</strong>, Xiapu Luo*, Haipeng Cai, Lei Wu<br>
+                 Weimin Chen<sup>(s)</sup>, Zihan Sun<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Xiapu Luo*, Haipeng Cai, Lei Wu<br>
                   <em><strong>The 31st ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA '22)</strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                   <br>
@@ -204,7 +213,7 @@
 
               <li>
                 <p><strong> A Tale of Two Countries: A Longitudinal Cross-Country Study of  Mobile Users' Reactions to the COVID-19 Pandemic Through the Lens of  App Popularity</strong><br>
-                  Liu Wang(s), <strong>Haoyu Wang*</strong>, Yi Wang, Gareth Tyson, Fei Lyu<br>
+                  Liu Wang<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Yi Wang, Gareth Tyson, Fei Lyu<br>
                   <em><strong>The 9th IEEE/ACM International Conference on Mobile Software Engineering and Systems 2022 (MobileSoft 2022) </strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                   <br>
@@ -213,7 +222,7 @@
 
               <li>
                 <p><strong> Lie to Me: Abusing the Mobile Content Sharing Service for Fun and Profit</strong><br>
-                  Guosheng Xu(s), Siyi Li(s), Hao Zhou, Shucen Liu, Yutian Tang, Li Li, Xiapu Luo, Xusheng Xiao, Guoai Xu and <strong>Haoyu Wang*</strong><br>
+                  Guosheng Xu<sup>(s)</sup>, Siyi Li<sup>(s)</sup>, Hao Zhou, Shucen Liu, Yutian Tang, Li Li, Xiapu Luo, Xusheng Xiao, Guoai Xu and <strong>Haoyu Wang*</strong><br>
                   <em><strong>The ACM Web Conference 2022 (WWW '22)</strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                   <br>
@@ -223,7 +232,7 @@
 
               <li>
                 <p><strong> How About Bug-Triggering Paths? - Understanding and Characterizing Learning-Based Vulnerability Detectors </strong><br>
-                  Xiao Cheng, Xu Nie, Ningke Li, <strong>Haoyu Wang</strong>, Zheng Zheng, Yulei Sui<br>
+                  Xiao Cheng, Xu Nie<sup>(s)</sup>, Ningke Li<sup>(s)</sup>, <strong>Haoyu Wang</strong>, Zheng Zheng, Yulei Sui<br>
                   <em><strong>IEEE Transactions on Dependable and Secure Computing (TDSC)</strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                   <br>
@@ -251,7 +260,7 @@
 
               <li>
                 <p><strong>Trade or Trick? Detecting and Characterizing Scam Tokens on Uniswap Decentralized Exchange</strong><br>
-                  Pengcheng Xia(s), <strong>Haoyu Wang*</strong>, Bingyu Gao(s), Weihang Su(s), Zhou Yu(s), Xiapu Luo, Chao Zhang, Xusheng Xiao, Guoai Xu<br>
+                  Pengcheng Xia<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Bingyu Gao<sup>(s)</sup>, Weihang Su<sup>(s)</sup>, Zhou Yu<sup>(s)</sup>, Xiapu Luo, Chao Zhang, Xusheng Xiao, Guoai Xu<br>
                   <em><strong>ACM SIGMETRICS 2022 (Acceptance Rate = 16%, Summer Deadline)</strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                   <br>
@@ -278,7 +287,7 @@
 
               <li>
                 <p><strong>Promal: Precise Window Transition Graphs for Android via Synergy of Program Analysis and Machine Learning</strong><br>
-                 Changlin Liu, Hanlin Wang, Tianming Liu(s), Diandian Gu, Yun Ma, <strong>Haoyu Wang</strong>, Xusheng Xiao<br>
+                 Changlin Liu, Hanlin Wang, Tianming Liu<sup>(s)</sup>, Diandian Gu, Yun Ma, <strong>Haoyu Wang</strong>, Xusheng Xiao<br>
                   <em><strong>The 44th International Conference on Software Engineering (ICSE 2022) </strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                   <br>
@@ -324,7 +333,7 @@
 
               <li>
                 <p><strong>SADPonzi: Detecting and Characterizing Ponzi Schemes in Ethereum Smart Contracts</strong><br>
-                  Weimin Chen(s), Xinran Li(s), Yuting Sui(s), Ningyu He(s), <strong>Haoyu Wang*</strong>, Lei Wu, and Xiapu Luo.<br>
+                  Weimin Chen<sup>(s)</sup>, Xinran Li<sup>(s)</sup>, Yuting Sui<sup>(s)</sup>, Ningyu He<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Lei Wu, and Xiapu Luo.<br>
                   <em><strong>ACM SIGMETRICS 2021</strong> (Acceptance Rate: 12%, winter deadline)</em>,
                   published in <strong>ACM POMACS</strong>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
@@ -333,7 +342,7 @@
               </li>
               <li>
                 <p><strong>Tracking Counterfeit Cryptocurrency End-to-end</strong><br>
-                  Bingyu Gao(s), <strong>Haoyu Wang*</strong>, Pengcheng Xia(s), Siwei Wu, Yajin Zhou, Xiapu Luo, and Gareth Tyson.<br>
+                  Bingyu Gao<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Pengcheng Xia<sup>(s)</sup>, Siwei Wu, Yajin Zhou, Xiapu Luo, and Gareth Tyson.<br>
                   <em><strong>ACM SIGMETRICS 2021</strong> (Acceptance Rate: 16%, summer deadline)</em>,
                   published in <strong>ACM POMACS</strong>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
@@ -342,7 +351,7 @@
               </li>
               <li>
                 <p><strong>EOSafe: Security analysis of EOSIO smart contracts</strong><br>
-                  Ningyu He(s), Ruiyi Zhang, <strong>Haoyu Wang*</strong>, Lei Wu*, Xiapu Luo, Yao Guo*, Ting Yu, and Xuxian Jiang.<br>
+                  Ningyu He<sup>(s)</sup>, Ruiyi Zhang, <strong>Haoyu Wang*</strong>, Lei Wu*, Xiapu Luo, Yao Guo*, Ting Yu, and Xuxian Jiang.<br>
                   Proceedings of <em>The 30th USENIX Security Symposium <strong>(USENIX Security 2021)</strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                 </p>
@@ -351,7 +360,7 @@
               <li>
                 <p><strong>CHAMP: Characterizing Undesired App Behaviors from User Comments based on Market
                     Policies</strong><br>
-                  Yangyu Hu(s)#, <strong>Haoyu Wang*#</strong>, Tiantong Ji, Xusheng Xiao, Xiapu Luo, Peng Gao and Yao Guo.<br>
+                  Yangyu Hu<sup>(s)</sup>#, <strong>Haoyu Wang*#</strong>, Tiantong Ji, Xusheng Xiao, Xiapu Luo, Peng Gao and Yao Guo.<br>
                   Proceedings of <em>the 43rd ACM/IEEE International Conference on Software Engineering <strong>(ICSE
                       2021)</strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
@@ -361,7 +370,7 @@
               <li>
                 <p><strong>DeepBackdoor: Black-box Backdoor Attack on Deep Learning Models through Neural Payload
                     Injection</strong><br>
-                  Yuanchun Li, Jiayi Hua(s), <strong>Haoyu Wang*</strong>, Chunyang Chen and Yunxin Liu.<br>
+                  Yuanchun Li, Jiayi Hua<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Chunyang Chen and Yunxin Liu.<br>
                   Proceedings of <em>the 43rd ACM/IEEE International Conference on Software Engineering <strong>(ICSE
                       2021)</strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
@@ -382,7 +391,7 @@
 
               <li>
                 <p><strong>Demystifying Illegal Mobile Gambling Apps</strong><br>
-                  Yuhao Gao(s), <strong>Haoyu Wang*</strong>, Li Li, Xiapu Luo, Xuanzhe Liu and Guoai Xu.<br>
+                  Yuhao Gao<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Li Li, Xiapu Luo, Xuanzhe Liu and Guoai Xu.<br>
                   Proceedings of <em>the 30th The Web Conference <strong>(WWW 2021)</strong>, acceptance rate =
                     20.6%</em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
@@ -390,7 +399,7 @@
               </li>
               <li>
                 <p><strong>A Longitudinal Study of Removed Apps in iOS App Store</strong><br>
-                  Fuqi Lin(s)#, <strong>Haoyu Wang*#</strong>, Liu Wang(s) and Xuanzhe Liu*.<br>
+                  Fuqi Lin<sup>(s)</sup>#, <strong>Haoyu Wang*#</strong>, Liu Wang<sup>(s)</sup> and Xuanzhe Liu*.<br>
                   Proceedings of <em>the 30th The Web Conference <strong>(WWW 2021)</strong>, acceptance rate =
                     20.6%</em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
@@ -407,7 +416,7 @@
 
               <li>
                 <p><strong>Beyond the Virus: A First Look at Coronavirus-themed Android Malware</strong><br>
-                  Liu Wang<sup>(s)#</sup>, Ren He<sup>(s)#</sup>, <strong>Haoyu Wang*</strong>, Pengcheng Xia(s), Yuanchun Li, Lei Wu, Yajin Zhou, Xiapu Luo,
+                  Liu Wang<sup>(s)#</sup>, Ren He<sup>(s)#</sup>, <strong>Haoyu Wang*</strong>, Pengcheng Xia<sup>(s)</sup>, Yuanchun Li, Lei Wu, Yajin Zhou, Xiapu Luo,
                   Yulei Sui, Yao Guo, Guoai Xu.<br>
                   <em><strong>Empirical Software Engineering (EMSE)</strong></em>
                   <a href="papers/COVID_19_Malware.pdf" class="btn btn-primary btn-xs">PDF</a>
@@ -419,7 +428,7 @@
               <li>
                 <p><strong>DeepWukong: Statically Detecting Software Vulnerabilities using Deep Graph Neural
                     Network</strong><br>
-                  Xiao Cheng(s), <strong>Haoyu Wang*</strong>, Jiayi Hua(s), Guoai Xu and Yulei Sui.<br>
+                  Xiao Cheng<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Jiayi Hua<sup>(s)</sup>, Guoai Xu and Yulei Sui.<br>
                   <em>ACM Transactions on Software Engineering and Methodology
                     <strong>(TOSEM)</strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
@@ -448,7 +457,7 @@
 
               <li>
                 <p><strong>A Systematic Assessment on Android Third-party Library Detection Tools</strong><br>
-                  Xian Zhan, Tianming Liu(s), Yepang Liu, Yang Liu, Li Li, <strong>Haoyu Wang</strong>, Xiapu Luo<br>
+                  Xian Zhan, Tianming Liu<sup>(s)</sup>, Yepang Liu, Yang Liu, Li Li, <strong>Haoyu Wang</strong>, Xiapu Luo<br>
                   <em><strong>IEEE Transactions on Software Engineering (TSE)</strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                   <br>
@@ -466,7 +475,7 @@
 
               <li>
                 <p><strong>Make Web3.0 Connected</strong><br>
-                  Zhuotao Liu, Yangxi Xiang(s), Jian Shi, Peng Gao, <strong>Haoyu Wang</strong>, Xusheng Xiao, Bihan Wen, Qi Li, Yih-Chun
+                  Zhuotao Liu, Yangxi Xiang<sup>(s)</sup>, Jian Shi, Peng Gao, <strong>Haoyu Wang</strong>, Xusheng Xiao, Bihan Wen, Qi Li, Yih-Chun
                   Hu.<br>
                   <em>IEEE Transactions on Dependable and Secure Computing
                     <strong>(TDSC)</strong></em>
@@ -477,7 +486,7 @@
 
               <li>
                 <p><strong>Identifying and Characterizing COVID-19 Themed Malicious Domain Campaigns</strong><br>
-                  Pengcheng Xia(s), Mohamed Nabeel, Issa Khalil, <strong>Haoyu Wang</strong> and Ting Yu.<br>
+                  Pengcheng Xia<sup>(s)</sup>, Mohamed Nabeel, Issa Khalil, <strong>Haoyu Wang</strong> and Ting Yu.<br>
                   Proceedings of <em>the 11th ACM Conference on Data and Application Security and Privacy
                     <strong>(CODASPY 2021)</strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
@@ -486,7 +495,7 @@
 
               <li>
                 <p><strong>MMGuard: Automatically Protecting On-Device Deep Learning Models in Android Apps</strong><br>
-                  Jiayi Hua(s), Yuanchun Li, <strong>Haoyu Wang*</strong>.<br>
+                  Jiayi Hua<sup>(s)</sup>, Yuanchun Li, <strong>Haoyu Wang*</strong>.<br>
                   Proceedings of <em>the 4th Deep Learning and Security Workshop <strong>(DLS 2021)</strong>, Co-located
                     with <strong>S&P 2021</strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
@@ -496,7 +505,7 @@
               <li>
                 <p><strong>On the Effectiveness of Deep Vulnerability Detectors to Simple Stupid Bug
                     Detection</strong><br>
-                  Jiayi Hua(s), <strong>Haoyu Wang*</strong>.<br>
+                  Jiayi Hua<sup>(s)</sup>, <strong>Haoyu Wang*</strong>.<br>
                   Proceedings of <em>the 2021 Mining Software Repositories Conference <strong>(MSR'21)</strong>, Mining
                     Challenge Track</em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
@@ -515,7 +524,7 @@
 
               <li>
                 <p><strong>Assessing the Feasibility of Web-Request Prediction Models on Mobile Platforms</strong><br>
-                  Yixue Zhao, Siwei Yin(s), Adriana Sejfia, Marcelo Schmitt Laser, <strong>Haoyu Wang</strong> and Nenad Medvidovic.<br>
+                  Yixue Zhao, Siwei Yin<sup>(s)</sup>, Adriana Sejfia, Marcelo Schmitt Laser, <strong>Haoyu Wang</strong> and Nenad Medvidovic.<br>
                  <em><strong>MobileSoft'21</strong>, co-located with <strong>ICSE'21</strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                 </p>
@@ -523,7 +532,7 @@
 
               <li>
                 <p><strong>Towards Understanding iOS App Store Search Advertising: An Explorative Study</strong><br>
-                  Siming Su(s), <strong>Haoyu Wang*</strong> and Guoai Xu.<br>
+                  Siming Su<sup>(s)</sup>, <strong>Haoyu Wang*</strong> and Guoai Xu.<br>
                   <em><strong>MobileSoft'21</strong>, co-located with <strong>ICSE'21</strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                 </p>
@@ -531,7 +540,7 @@
 
               <li>
                 <p><strong>A Large-Scale Empirical Study of COVID-19 Themed GitHub Repositories</strong><br>
-                  Liu Wang(s), Ruiqing Li, Jiaxin Zhu, Guangdong Bai and <strong>Haoyu Wang*</strong>.<br>
+                  Liu Wang<sup>(s)</sup>, Ruiqing Li, Jiaxin Zhu, Guangdong Bai and <strong>Haoyu Wang*</strong>.<br>
                   <em>IEEE Computer Society Signature Conference on Computers, Software and Applications <strong>(COMPSAC 2021)</em></strong>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                 </p>
@@ -539,7 +548,7 @@
 
               <li>
                 <p><strong>Understanding the Impact of COVID-19 on Github Developers: A Preliminary Study</strong><br>
-                  Liu Wang(s), Ruiqing Li, Jiaxin Zhu, Guangdong Bai, Weihang Su(s) and <strong>Haoyu Wang*</strong>.<br>
+                  Liu Wang<sup>(s)</sup>, Ruiqing Li, Jiaxin Zhu, Guangdong Bai, Weihang Su<sup>(s)</sup> and <strong>Haoyu Wang*</strong>.<br>
                   <em>The 33rd International Conference on Software Engineering & Knowledge Engineering <strong>(SEKE'21)</strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                 </p>
@@ -558,7 +567,7 @@
               <!-- <ol> -->
               <li>
                 <p><strong>Understanding (Mis)Behavior on the EOSIO Blockchain</strong><br>
-                  Yuheng Huang(s), <strong>Haoyu Wang*</strong>, Lei Wu*, Gareth Tyson, Xiapu Luo, Run Zhang(s), Xuanzhe Liu, Gang Huang
+                  Yuheng Huang<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Lei Wu*, Gareth Tyson, Xiapu Luo, Run Zhang<sup>(s)</sup>, Xuanzhe Liu, Gang Huang
                   and Xuxian Jiang.<br>
                   <em><strong>ACM SIGMETRICS 2020</strong> (Acceptance Rate: 15%)</em>, published in
                   <strong>ACM POMACS</strong>
@@ -567,14 +576,14 @@
               </li>
               <li>
                 <p><strong>Flow2Vec: Value-Flow-Based Precise Code Embedding</strong><br>
-                  Yulei Sui, Xiao Cheng(s), Guanqin Zhang, and <strong>Haoyu Wang</strong>.<br>
+                  Yulei Sui, Xiao Cheng<sup>(s)</sup>, Guanqin Zhang, and <strong>Haoyu Wang</strong>.<br>
                   Proceedings of <em><strong>ACM OOPSLA 2020</strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                   <span class="label label-success">ACM SIGPLAN Distinguished Paper AWARD</span>
                 </p>
               <li>
                 <p><strong>Mobile App Squatting</strong><br>
-                  Yangyu Hu(s), <strong>Haoyu Wang*</strong>, Ren He(s), Li Li, Gareth Tyson, Ignacio Castro, Yao Guo, Lei Wu and Guoai
+                  Yangyu Hu<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Ren He<sup>(s)</sup>, Li Li, Gareth Tyson, Ignacio Castro, Yao Guo, Lei Wu and Guoai
                   Xu.<br>
                   Proceedings of <em>the Web Conference 2020 <strong>(WWW'20)</strong>, acceptance rate = 19%, Full
                     paper, Oral.</em><br>
@@ -585,7 +594,7 @@
               </li>
               <li>
                 <p><strong>MadDroid: Characterising and Detecting Devious Ad Content for Android Apps</strong><br>
-                  Tianming Liu#(s), <strong>Haoyu Wang#*</strong>, Li Li, Xiapu Luo, Feng Dong(s), Yao Guo, Liu Wang(s), Tegawende F.
+                  Tianming Liu#<sup>(s)</sup>, <strong>Haoyu Wang#*</strong>, Li Li, Xiapu Luo, Feng Dong<sup>(s)</sup>, Yao Guo, Liu Wang<sup>(s)</sup>, Tegawende F.
                   Bissyande and Jacques Klein<br>
                   Proceedings of <em>the Web Conference 2020 <strong>(WWW'20)</strong>, acceptance rate = 19%, Full
                     paper, Oral.</em>
@@ -595,7 +604,7 @@
               <li>
                 <p><strong>DEPOSafe: Demystifying the Fake Deposit Vulnerability in Ethereum Smart
                     Contracts</strong><br>
-                  Ru Ji(s)#, Ningyu He(s)#, Lei Wu, <strong>Haoyu Wang*</strong>, Guangdong Bai and Yao Guo.<br>
+                  Ru Ji<sup>(s)</sup>#, Ningyu He<sup>(s)</sup>#, Lei Wu, <strong>Haoyu Wang*</strong>, Guangdong Bai and Yao Guo.<br>
                   Proceedings of <em>the 25th International Conference on Engineering of Complex Computer Systems
                     <strong>(ICECCS 2020)</strong></em><br>
                   <strong>Media Coverage</strong>: <a
@@ -617,7 +626,7 @@
               <li>
                 <p><strong>Don't Fish in Troubled Waters! Characterizing Coronavirus-themed Cryptocurrency
                     Scams</strong><br>
-                  Pengcheng Xia(s), <strong>Haoyu Wang*</strong>, Xiapu Luo, Lei Wu, Yajin Zhou, Guangdong Bai, Guoai Xu, Gang Huang,
+                  Pengcheng Xia<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Xiapu Luo, Lei Wu, Yajin Zhou, Guangdong Bai, Guoai Xu, Gang Huang,
                   Xuanzhe Liu.<br>
                   Proceedings of <em>APWG Symposium on Electronic Crime Research <strong>(eCrime 2020)</strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
@@ -635,7 +644,7 @@
               <li>
                 <p><strong>Automated Third-party Library Detection for Android Applications: Are We There
                     Yet?</strong><br>
-                  Xian Zhan, Lingling Fan, Tianming Liu(s), Sen Chen, Li Li, <strong>Haoyu Wang</strong>, Yifei Xu, Xiapu Luo and Yang
+                  Xian Zhan, Lingling Fan, Tianming Liu<sup>(s)</sup>, Sen Chen, Li Li, <strong>Haoyu Wang</strong>, Yifei Xu, Xiapu Luo and Yang
                   Liu.<br>
                   <em>The 35th IEEE/ACM International Conference on Automated Software Engineering <strong>(ASE
                       2020)</strong>, acceptance rate = 22.5%.</em>
@@ -667,7 +676,7 @@
               </li>
               <li>
                 <p><strong>Characterizing Code Clones in the Ethereum Smart Contract Ecosystem</strong><br>
-                  Ningyu He(s), Lei Wu, <strong>Haoyu Wang*</strong>, Yao Guo*, and Xuxian Jiang.<br>
+                  Ningyu He<sup>(s)</sup>, Lei Wu, <strong>Haoyu Wang*</strong>, Yao Guo*, and Xuxian Jiang.<br>
                   <em>The 24th International Conference on Financial Cryptography and Data Security 2020
                     <strong>(FC'20)</strong>, acceptance rate = 22%.</em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
@@ -683,7 +692,7 @@
               </li>
               <li>
                 <p><strong>Characterizing Cryptocurrency Exchange Scams</strong><br>
-                  Pengcheng Xia(s), <strong>Haoyu Wang*</strong>, Bowen Zhang(s), Ru Ji(s), Bingyu Gao(s), Lei Wu, Xiapu Luo, and Guoai
+                  Pengcheng Xia<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Bowen Zhang<sup>(s)</sup>, Ru Ji<sup>(s)</sup>, Bingyu Gao<sup>(s)</sup>, Lei Wu, Xiapu Luo, and Guoai
                   Xu.<br>
                   <em>Elsevier Computers & Security <strong>(COSE, IF=3.579)</strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
@@ -691,7 +700,7 @@
               </li>
               <li>
                 <p><strong>Market-level Analysis of Government-backed COVID-19 Contact Tracing Apps</strong><br>
-                  Huiyi Wang(s), Liu Wang(s), and <strong>Haoyu Wang*</strong>.<br>
+                  Huiyi Wang<sup>(s)</sup>, Liu Wang<sup>(s)</sup>, and <strong>Haoyu Wang*</strong>.<br>
                   <em>The International Workshop on Advances in Mobile App Analysis <strong>(A-Mobile 2020)</strong>,
                     co-located with <strong>ASE 2020</strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
@@ -707,7 +716,7 @@
               </li>
               <li>
                 <p><strong>Dissecting Mobile Offerwall Advertisements: An Explorative Study</strong><br>
-                  Guosheng Xu, Yangyu Hu(s), Qian Guo(s), Ren He(s), Li Li, Guoai Xu, Zhihui Han, <strong>Haoyu Wang</strong><br>
+                  Guosheng Xu, Yangyu Hu<sup>(s)</sup>, Qian Guo<sup>(s)</sup>, Ren He<sup>(s)</sup>, Li Li, Guoai Xu, Zhihui Han, <strong>Haoyu Wang</strong><br>
                   <em>The 20th IEEE International Conference on Software Quality, Reliability, and Security
                     <strong>(QRS'20)</strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
@@ -715,7 +724,7 @@
               </li>
               <li>
                 <p><strong>Does the Presence of Privacy Relevant Information Affect App Market Choice?</strong><br>
-                  Maria K Wolters, Shuobing Li, <strong>Haoyu Wang</strong>, Xinyu Yang(s), and Yao Guo<br>
+                  Maria K Wolters, Shuobing Li, <strong>Haoyu Wang</strong>, Xinyu Yang<sup>(s)</sup>, and Yao Guo<br>
                   <em>The ACM CHI Conference on Human Factors in Computing Systems <strong>(ACM CHI'20)</strong>,
                     Late-Breaking Work.</em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
@@ -723,7 +732,7 @@
               </li>
               <li>
                 <p><strong>Same origin based fine-grained privacy protection for mobile applications</strong><br>
-                  Wenxiong Lu(s), <strong>Haoyu Wang*</strong><br>
+                  Wenxiong Lu<sup>(s)</sup>, <strong>Haoyu Wang*</strong><br>
                   <em>Invited Paper, <strong>BIG DATA RESEARCH</strong> (in Chinese).</em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                 </p>
@@ -739,7 +748,7 @@
               <!-- <ol> -->
               <li>
                 <p><strong>Automated Deobfuscation of Android Native Binary Code</strong><br>
-                  Zeliang Kan(s), <strong>Haoyu Wang*</strong>, Lei Wu, Yao Guo, and Xiapu Luo.
+                  Zeliang Kan<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Lei Wu, Yao Guo, and Xiapu Luo.
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                   <a href="https://github.com/DiANa-deobfuscation-2020/DiANa" class="btn btn-primary btn-xs">Tool
                     (Github)</a>
@@ -748,7 +757,7 @@
               <li>
                 <p><strong>EVulHunter: Detecting Fake Transfer Vulnerabilities for EOSIO's Smart Contracts at
                     Webassembly-level</strong><br>
-                  Lijin Quan(s), Lei Wu, and <strong>Haoyu Wang*</strong>.
+                  Lijin Quan<sup>(s)</sup>, Lei Wu, and <strong>Haoyu Wang*</strong>.
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                   <a href="https://github.com/EVulHunter/EVulHunter" class="btn btn-primary btn-xs">Tool (Github)</a>
                   <a href="https://youtu.be/5SJ0ZJKVZvw" class="btn btn-primary btn-xs">Demo</a>
@@ -767,7 +776,7 @@
               <li>
                 <p><strong>HyperService: Interoperability and Programmability across Heterogeneous
                     Blockchains</strong><br>
-                  Zhuotao Liu*, Yangxi Xiang(s), Jian Shi, Peng Gao, <strong>Haoyu Wang*</strong>, Xusheng Xiao, Bihan Wen, Yih-Chun
+                  Zhuotao Liu*, Yangxi Xiang<sup>(s)</sup>, Jian Shi, Peng Gao, <strong>Haoyu Wang*</strong>, Xusheng Xiao, Bihan Wen, Yih-Chun
                   Hu.<br>
                   <em>The 26th ACM Conference on Computer and Communications Security <strong>(ACM CCS
                       2019)</strong></em>
@@ -776,7 +785,7 @@
               </li>
               <li>
                 <p><strong>Characterizing Android App Signing Issues</strong><br>
-                  <strong>Haoyu Wang</strong>, Hongxuan Liu(s), Xusheng Xiao, Guozhu Meng, and Yao Guo.<br>
+                  <strong>Haoyu Wang</strong>, Hongxuan Liu<sup>(s)</sup>, Xusheng Xiao, Guozhu Meng, and Yao Guo.<br>
                   <em>The 34th IEEE/ACM International Conference on Automated Software Engineering <strong>(ASE
                       2019)</strong>, full paper.</em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
@@ -784,7 +793,7 @@
               </li>
               <li>
                 <p><strong>DaPanda: Detecting Aggressive Push Notification in Android Apps</strong><br>
-                  Tianming Liu#(s), <strong>Haoyu Wang#*</strong>, Li Li, Guangdong Bai, Yao Guo and Guoai Xu.<br>
+                  Tianming Liu#<sup>(s)</sup>, <strong>Haoyu Wang#*</strong>, Li Li, Guangdong Bai, Yao Guo and Guoai Xu.<br>
                   <em>The 34th IEEE/ACM International Conference on Automated Software Engineering <strong>(ASE
                       2019)</strong>, full paper.</em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
@@ -793,7 +802,7 @@
               <li>
                 <p><strong>Dating with Scambots: Understanding the Ecosystem of Fraudulent Dating
                     Applications</strong><br>
-                  Yangyu Hu(s), <strong>Haoyu Wang*</strong>, Yajin Zhou*, Yao Guo, Li Li, Bingxuan Luo(s), Fangren Xu(s).<br>
+                  Yangyu Hu<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Yajin Zhou*, Yao Guo, Li Li, Bingxuan Luo<sup>(s)</sup>, Fangren Xu<sup>(s)</sup>.<br>
                   <em>IEEE Transactions on Dependable and Secure Computing <strong>(TDSC)</strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                 </p>
@@ -808,7 +817,7 @@
               </li>
               <li>
                 <p><strong>Static Detection of Control-Flow-Related Vulnerabilities Using Graph Embedding</strong><br>
-                  Xiao Cheng(s), <strong>Haoyu Wang*</strong>, Jiayi Hua(s), Miao Zhang, Guoai Xu, Li Yi and Yulei Sui.<br>
+                  Xiao Cheng<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Jiayi Hua<sup>(s)</sup>, Miao Zhang, Guoai Xu, Li Yi and Yulei Sui.<br>
                   <em>The 24th International Conference on Engineering of Complex Computer Systems <strong>(ICECCS
                       2019)</strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
@@ -816,7 +825,7 @@
               </li>
               <li>
                 <p><strong>AppNet: Understanding App Recommendation in Google Play</strong><br>
-                  Qian Guo(s), <strong>Haoyu Wang</strong>, Chenwei Zhang, Yao Guo and Guoai Xu.<br>
+                  Qian Guo<sup>(s)</sup>, <strong>Haoyu Wang</strong>, Chenwei Zhang, Yao Guo and Guoai Xu.<br>
                   <em>The 3rd International Workshop on App Market Analytics <strong>(WAMA 2019)</strong>, co-located
                     with <strong>ESEC/FSE 2019</strong>.</em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
@@ -831,7 +840,7 @@
               </li>
               <li>
                 <p><strong>Deobfuscating Android Native Binary Code</strong><br>
-                  Zeliang Kan(s), <strong>Haoyu Wang*</strong>, Lei Wu, Yao Guo and Guoai Xu.<br>
+                  Zeliang Kan<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Lei Wu, Yao Guo and Guoai Xu.<br>
                   <em>The 41st ACM/IEEE International Conference on Software Engineering <strong>(ICSE 2019)</strong>,
                     Poster Track (Invitation).</em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
@@ -846,7 +855,7 @@
               </li>
               <li>
                 <p><strong>Characterizing the Global Mobile App Developers: A Large-scale Empirical Study</strong><br>
-                  <strong>Haoyu Wang</strong>, Xupu Wang(s) and Yao Guo.<br>
+                  <strong>Haoyu Wang</strong>, Xupu Wang<sup>(s)</sup> and Yao Guo.<br>
                   <em>IEEE/ACM International Conference on Mobile Software Engineering and Systems <strong>(MobileSoft
                       2019)</strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
@@ -862,7 +871,7 @@
               </li>
               <li>
                 <p><strong>Want to Earn a Few Extra Bucks? A First Look at Money-making Apps</strong><br>
-                  Yangyu Hu(s), <strong>Haoyu Wang*</strong>, Li Li, Yao Guo, Guoai Xu and Ren He(s).<br>
+                  Yangyu Hu<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Li Li, Yao Guo, Guoai Xu and Ren He<sup>(s)</sup> <br>
                   <em>IEEE International Conference on Software Analysis, Evolution and Reengineering <strong>(SANER
                       2019)</strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
@@ -870,7 +879,7 @@
               </li>
               <li>
                 <p><strong>Knowledge Graphing Git Repositories: A Preliminary Study</strong><br>
-                  Yanjie Zhao(s), <strong>Haoyu Wang*</strong>, Lei Ma, Yuxin Liu, Li Li and John Grundy.<br>
+                  Yanjie Zhao<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Lei Ma, Yuxin Liu, Li Li and John Grundy.<br>
                   <em>IEEE International Conference on Software Analysis, Evolution and Reengineering <strong>(SANER
                       2019)</strong>, ERA Track.</em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
@@ -885,7 +894,7 @@
               </li>
               <li>
                 <p><strong>AppAuth: Authorship Attribution for Android App Clones</strong><br>
-                  Guoai Xu, Chengpeng Zhang(s), Bowen Sun(s), Xinyu Yang(s), Yanhui Guo, Chengze Li(s), <strong>Haoyu Wang</strong>.
+                  Guoai Xu, Chengpeng Zhang<sup>(s)</sup>, Bowen Sun<sup>(s)</sup>, Xinyu Yang<sup>(s)</sup>, Yanhui Guo, Chengze Li<sup>(s)</sup>, <strong>Haoyu Wang</strong>.
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                 </p>
               </li>
@@ -916,7 +925,7 @@
               <li>
                 <p><strong>Beyond Google Play: A Large-Scale Comparative Study of Chinese Android App
                     Markets</strong><br>
-                  <strong>Haoyu Wang</strong>, Zhe Liu(s), Jingyue Liang(s), Narseo Vallina-Rodriguez, Yao Guo, Li Li, Juan Tapiador,
+                  <strong>Haoyu Wang</strong>, Zhe Liu<sup>(s)</sup>, Jingyue Liang<sup>(s)</sup>, Narseo Vallina-Rodriguez, Yao Guo, Li Li, Juan Tapiador,
                   Jingcun Cao, Guoai Xu.<br>
                   <em>ACM Internet Measurement Conference <strong>(IMC 2018)</strong>, our paper is the only one coming
                     from Asia.</em>
@@ -925,7 +934,7 @@
               </li>
               <li>
                 <p><strong>FraudDroid: Automated Ad Fraud Detection for Android Apps</strong><br>
-                  Feng Dong(s), <strong>Haoyu Wang*#</strong>, Li Li, Yao Guo, Tegawende F. Bissyande, Tianming Liu(s),
+                  Feng Dong<sup>(s)</sup>, <strong>Haoyu Wang*#</strong>, Li Li, Yao Guo, Tegawende F. Bissyande, Tianming Liu<sup>(s)</sup>,
                   Guoai Xu and Jacques Klein<br>
                   <em><strong>ESEC/FSE 2018</strong> (acceptance rate of 19%)</em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
@@ -942,7 +951,7 @@
               </li>
               <li>
                 <p><strong>How do Mobile Apps Violate the Behavioral Policy of Advertisement Libraries?</strong><br>
-                  Feng Dong(s), <strong>Haoyu Wang*</strong>, Li Li, Yao Guo, Guoai Xu, Shaodong Zhang.<br>
+                  Feng Dong<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Li Li, Yao Guo, Guoai Xu, Shaodong Zhang.<br>
                   <em>The 19th Workshop on Mobile Computing Systems and Applications <strong>(HotMobile
                       2018)</strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
@@ -957,7 +966,7 @@
               </li>
               <li>
                 <p><strong>Towards Light-weight Deep Learning based Malware Detection</strong><br>
-                  Zeliang Kan(s), <strong>Haoyu Wang*</strong>, Guoai Xu, Yao Guo, Xiangqun Chen.<br>
+                  Zeliang Kan<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Guoai Xu, Yao Guo, Xiangqun Chen.<br>
                   <em>The 42nd IEEE International Conference on Computers, Software & Applications <strong>(COMPSAC
                       2018)</strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
@@ -966,7 +975,7 @@
               <li>
                 <p><strong>Re-checking App Behavior against App Description in the Context of Third-party
                     Libraries</strong><br>
-                  Chengpeng Zhang(s), <strong>Haoyu Wang*</strong>, Ran Wang, Yao Guo, Guoai Xu.<br>
+                  Chengpeng Zhang<sup>(s)</sup>, <strong>Haoyu Wang*</strong>, Ran Wang<sup>(s)</sup>, Yao Guo, Guoai Xu.<br>
                   <em>The 30th International Conference on Software Engineering & Knowledge Engineering <strong>(SEKE
                       2018)</strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
@@ -986,7 +995,7 @@
               <li>
                 <p><strong>An Explorative Study of the Mobile App Ecosystem from App Developers'
                     Perspective</strong><br>
-                  <strong>Haoyu Wang</strong>, Zhe Liu(s), Yao Guo, Xiangqun Chen, Miao Zhang, Guoai Xu and Jason Hong.<br>
+                  <strong>Haoyu Wang</strong>, Zhe Liu<sup>(s)</sup>, Yao Guo, Xiangqun Chen, Miao Zhang, Guoai Xu and Jason Hong.<br>
                   Proceedings of <em>the 26th International World Wide Web Conference <strong>(WWW 2017)</strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                 </p>
@@ -1014,7 +1023,7 @@
               </li>
               <li>
                 <p><strong>CRSPR: PageRank for Android Apps</strong><br>
-                  Chengze Li(s), <strong>Haoyu Wang</strong>, Junfeng Wang, Qi Li, Jianbo Yu, Jingyi Guo, Guoai Xu and Yanhui Guo.<br>
+                  Chengze Li<sup>(s)</sup>, <strong>Haoyu Wang</strong>, Junfeng Wang, Qi Li, Jianbo Yu, Jingyi Guo, Guoai Xu and Yanhui Guo.<br>
                   <em><strong>IEEE ACCESS 14(8)</strong>, 2017</em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                 </p>
@@ -1031,7 +1040,7 @@
               <li>
                 <p><strong>Privacy Rating for Mobile Apps based on Crowdsourcing and Machine-learning
                     Techniques</strong><br>
-                  ZHANG Xianxian(s), <strong>WANG Haoyu</strong>, GUO Yao and XU Guoai.<br>
+                  ZHANG Xianxian<sup>(s)</sup>, <strong>WANG Haoyu</strong>, GUO Yao and XU Guoai.<br>
                   <em><strong>NASAC 2017</strong> (in Chinese)</em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                   <span class="label label-success">Best Paper Award</span>
@@ -1040,7 +1049,7 @@
               <li>
                 <p><strong>Automated Detection of the Inconsistence between App Behavior and Privacy Policy of Android
                     Apps</strong><br>
-                  WANG Jingyu(s), XU Mingkun, <strong>WANG Haoyu</strong> and XU Guoai.<br>
+                  WANG Jingyu<sup>(s)</sup>, XU Mingkun, <strong>WANG Haoyu</strong> and XU Guoai.<br>
                   <em><strong>NASAC 2017</strong> (in Chinese)</em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                 </p>
