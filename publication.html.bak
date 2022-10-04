@@ -106,6 +106,15 @@
                   <br>
                 </p>
               </li>
+              
+              <li>
+                <p><strong> Characterizing Cryptocurrency-themed Malicious Browser Extensions</strong><br>
+                  Kailong Wang, Yuxi Ling, Yanjun Zhang, Zhou Yu, Haoyu Wang, Guangdong Bai, <br>
+                  <em><strong>ACM SIGMETRICS 2023 </strong></em>
+                  <a href="" class="btn btn-primary btn-xs">PDF</a>
+                  <br>
+                </p>
+              </li>
 
 
 
@@ -137,7 +146,7 @@
 
               <li>
                 <p><strong> Are they Toeing the Line? Diagnosing Privacy Compliance Violations among Browser Extensions</strong><br>
-                  Yuxi Ling, Kailong Wang, Guangdong Bai, <strong>Haoyu Wang</strong>, and Jin Song Dong<br>
+                  Yuxi Ling, Kailong Wang, Guangdong Bai*, <strong>Haoyu Wang*</strong>, and Jin Song Dong<br>
                   <em><strong>The 37th IEEE/ACM International Conference on Automated Software Engineering (ASE 2022) </strong></em>
                   <a href="" class="btn btn-primary btn-xs">PDF</a>
                   <br>
